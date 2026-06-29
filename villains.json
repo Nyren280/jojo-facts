@@ -1,13 +1,113 @@
 [
   {
-    "id": 1,
-    "part": 1,
-    "title": "Dio Brando",
-    "character": "Dio Brando",
+    "id": 36,
+    "part": 3,
+    "title": "Yellow Temperance's Assimilation",
+    "character": "Rubber Soul",
     "category": "Villain",
     "spoiler": false,
     "difficulty": "Easy",
-    "source": "Phantom Blood",
-    "fact": "Dio Brando is the primary antagonist of Phantom Blood and a recurring villain throughout the series."
+    "source": "Stardust Crusaders",
+    "fact": "Rubber Soul's Stand, Yellow Temperance, is an amorphous organic suit that absorbs and assimilates living flesh to grow larger. Because it is a physical entity, it cannot be broken or bypassed by other Stands."
+  },
+  {
+    "id": 37,
+    "part": 4,
+    "title": "Bad Company's Mini Army",
+    "character": "Keicho Nijimura",
+    "category": "Villain",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Diamond Is Unbreakable",
+    "fact": "Keicho Nijimura's Stand, Bad Company, is a localized army comprised of miniature soldiers, helicopters, and tanks. Despite their small scale, their weapons fire fully functioning, lethal ammunition and explosive missiles."
+  },
+  {
+    "id": 38,
+    "part": 5,
+    "title": "Man in the Mirror's Separation",
+    "character": "Illuso",
+    "category": "Villain",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "Golden Wind",
+    "fact": "Illuso's Stand, Man in the Mirror, allows him to create an isolated 'Mirror World'. He can selectively pull a target into this dimension while completely locking out their Stand, leaving the target entirely defenseless."
+  },
+  {
+    "id": 39,
+    "part": 5,
+    "title": "Clash's Liquid Teleportation",
+    "character": "Squalo",
+    "category": "Villain",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "Golden Wind",
+    "fact": "Squalo's shark-like Stand, Clash, can instantly teleport between any bodies of liquid within a 50-meter radius, regardless of size—ranging from vast canals down to a simple puddle or a cup of soup."
+  },
+  {
+    "id": 40,
+    "part": 6,
+    "title": "Highway to Hell's Empathy Link",
+    "character": "Thunder McQueen",
+    "category": "Villain",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "Stone Ocean",
+    "fact": "Thunder McQueen's Stand, Highway to Hell, creates a direct life-and-death link with a targeted individual. Whenever Thunder McQueen attempts suicide or inflicts pain on himself, the target experiences the exact same trauma."
+  },
+  {
+    "id": 41,
+    "part": 6,
+    "title": "Sky High's Sky Rods",
+    "character": "Rikiel",
+    "category": "Villain",
+    "spoiler": true,
+    "difficulty": "Hard",
+    "source": "Stone Ocean",
+    "fact": "Rikiel's Stand, Sky High, takes the form of a wrist-mounted tool that controls Sky Rods—cryptid organisms that feed on heat. Rikiel utilizes them to siphon body heat away from an opponent's specific nerves or vital organs, causing immediate localized paralysis."
+  },
+  {
+    "id": 42,
+    "part": 7,
+    "title": "Scary Monsters' Origin",
+    "character": "Dr. Ferdinand",
+    "category": "Villain",
+    "spoiler": true,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "Dr. Ferdinand was the original user of Scary Monsters. Using the power of a Holy Corpse part, he could infect living beings and transform them into dynamic dinosaur sentries, though he could not transform his own body."
+  },
+  {
+    "id": 43,
+    "part": 7,
+    "title": "Tattoo You!'s Shared Body",
+    "character": "Eleven Men",
+    "category": "Villain",
+    "spoiler": true,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "The Stand Tattoo You! belongs to a coordinated hit squad of eleven individuals. It allows all eleven men to simultaneously coexist inside a single physical body, instantly swapping who interacts with reality via a tattoo on their backs."
+  },
+  {
+    "id": 44,
+    "part": 8,
+    "title": "I Am a Rock's Attraction",
+    "character": "Yotsuyu Yagiyama",
+    "category": "Villain",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "JoJolion",
+    "fact": "Yotsuyu Yagiyama's Stand, I Am a Rock, triggers a targeted gravitational force upon touching an opponent. It causes a specific type of material—such as chestnuts, rocks, or pine needles—to relentlessly swarm and crush the victim."
+  },
+  {
+    "id": 45,
+    "part": 9,
+    "title": "Cat Size's Translucent Wires",
+    "character": "Wild Cat Size",
+    "category": "Villain",
+    "spoiler": true,
+    "difficulty": "Hard",
+    "source": "The JOJOLands",
+    "fact": "Wild Cat Size is a trio of stray Siamese cats that share the integrated Stand, Cat Size. By shedding their fur, they generate long, razor-sharp translucent wires that track targets, automatically wrap around limbs, and progressively tighten."
   }
 ]
+
