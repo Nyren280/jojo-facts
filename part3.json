@@ -2,12 +2,167 @@
   {
     "id": 1,
     "part": 3,
-    "title": "Jotaro Kujo",
+    "title": "The Spaghetti Western Stoic Inspo",
     "character": "Jotaro Kujo",
-    "category": "Character",
+    "category": "Behind-the-Scenes",
     "spoiler": false,
     "difficulty": "Easy",
     "source": "Stardust Crusaders",
-    "fact": "Jotaro Kujo is the protagonist of Stardust Crusaders and user of Star Platinum."
+    "fact": "Jotaro Kujo’s personality and iconic finger-pointing stance were heavily inspired by Hollywood legend Clint Eastwood. Araki wanted a modern samurai-style hero who didn't scream his emotions but instead stood stoic and let his actions speak."
+  },
+  {
+    "id": 2,
+    "part": 3,
+    "title": "The Continuous Hat Biology Illusion",
+    "character": "Jotaro Kujo",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stardust Crusaders",
+    "fact": "Jotaro’s hat famously appears to blend seamlessly into his hair. Araki designed it this way because he treats the hat as an extension of Jotaro’s biological silhouette, wanting him to remain instantly recognizable from the back even if his head shape changes."
+  },
+  {
+    "id": 3,
+    "part": 3,
+    "title": "The Pop Chanteuse Moniker",
+    "character": "Muhammad Avdol",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Stardust Crusaders",
+    "fact": "Muhammad Avdol's name is a direct phonetic nod to the American pop star Paula Abdul. Araki frequently used contemporary Billboard chart leaders to give his international cast distinct, memorable names."
+  },
+  {
+    "id": 4,
+    "part": 3,
+    "title": "The Chanson Pop Icon Homage",
+    "character": "Jean-Pierre Polnareff",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Stardust Crusaders",
+    "fact": "Jean-Pierre Polnareff is named after the famous French singer-songwriter Michel Polnareff. His flat-top hairstyle and flamboyant mannerisms were designed to reflect the dramatic, theatrical flair of European pop icons."
+  },
+  {
+    "id": 5,
+    "part": 3,
+    "title": "The Boston Terrier Facelift",
+    "character": "Iggy",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stardust Crusaders",
+    "fact": "When Iggy is first introduced during the mid-point of Part 3, he is drawn as a realistic, standard Boston Terrier. As the story progresses and he develops distinct personality traits, Araki gradually morphs his facial structure to look highly expressive and human-like."
+  },
+  {
+    "id": 6,
+    "part": 3,
+    "title": "The Pop-Rap Royalty Vampire Thrall",
+    "character": "Vanilla Ice",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Stardust Crusaders",
+    "fact": "DIO’s fiercely loyal vampire subordinate, Vanilla Ice, is named directly after the early 1990s American rapper Vanilla Ice. His Stand, Cream, creates a double musical pun completing the artist's breakout song identity."
+  },
+  {
+    "id": 7,
+    "part": 3,
+    "title": "The Muddy Waters Blues Infancy",
+    "character": "Mannish Boy",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Stardust Crusaders",
+    "fact": "The sinister, highly intelligent infant Stand user of Death 13 is named Mannish Boy. This is a direct reference to the classic 1955 blues standard 'Mannish Boy' recorded by the legendary musician Muddy Waters."
+  },
+  {
+    "id": 8,
+    "part": 3,
+    "title": "The Record-Breaking Page Count Defeat",
+    "character": "Steely Dan",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stardust Crusaders",
+    "fact": "The beatdown Jotaro inflicts on Steely Dan after his grandfather is saved holds a unique record in Part 3. Spanning nearly 3 full pages of continuous 'Ora Ora' barrages, it stands as the single longest, most meticulous physical punishment delivered in the original run."
+  },
+  {
+    "id": 9,
+    "part": 3,
+    "title": "The Yacht Rock Outlaw Duo",
+    "character": "Hol Horse",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stardust Crusaders",
+    "fact": "The mercenary gunslinger Hol Horse derives his name from the wildly popular American pop-rock duo Hall & Oates. Araki originally considered making him a permanent ally, but worried his gun Stand would disrupt the close-range dynamic of the core team."
+  },
+  {
+    "id": 10,
+    "part": 3,
+    "title": "The Middle Eastern Expedition Blueprint",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Stardust Crusaders",
+    "fact": "To ground the Crusaders' 50-day overland trek in reality, Araki personally traveled across the Middle East and North Africa. He photographed local architecture, street markets, and desert geography to ensure the transition from Singapore to Cairo felt culturally tangible."
+  },
+  {
+    "id": 11,
+    "part": 3,
+    "title": "The New Wave Pop Localization Pivot",
+    "character": "Oingo & Boingo",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Stardust Crusaders",
+    "fact": "The bumbling assassin brothers Oingo and Boingo are named after the American new wave band Oingo Boingo. In Western localizations, their names were altered to Zenyatta and Mondatta, paying tribute to the 1980 album by rock band The Police."
+  },
+  {
+    "id": 12,
+    "part": 3,
+    "title": "The High-Stakes Poker Face Gamble",
+    "character": "Daniel J. D'Arby",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stardust Crusaders",
+    "fact": "The battle against Daniel J. D'Arby marked a historic shift in shonen combat. Instead of relying on physical strength or laser beams, Jotaro wins a poker match purely through psychological warfare and a high-stakes bluff, showing that Stands could turn battles into mental puzzles."
+  },
+  {
+    "id": 13,
+    "part": 3,
+    "title": "The Crimson Cherry Licking Metronome",
+    "character": "Noriaki Kakyoin",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Stardust Crusaders",
+    "fact": "Kakyoin's famous, bizarre habit of rapidly rolling a cherry on his tongue while making a rhythmic 'Rero Rero' sound was completely improvised by Araki to show his eccentric personality. The sequence became an enduring internet meme and signature character quirk."
+  },
+  {
+    "id": 14,
+    "part": 3,
+    "title": "The Definitive Stand Taxonomy Shift",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Stardust Crusaders",
+    "fact": "Part 3 completely revolutionized the shonen genre by introducing Stands, moving the manga landscape permanently away from quantitative power levels to qualitative rule-based matchups where any power could win if used cleverly."
+  },
+  {
+    "id": 15,
+    "part": 3,
+    "title": "The Heavy Metal Holy Diver Inspiration",
+    "character": "Dio Brando",
+    "category": "Behind-the-Scenes",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "Stardust Crusaders",
+    "fact": "DIO's time-stopping Stand, The World, was visually designed to look like a deep-sea diver, featuring oxygen tanks on its back. This was Araki's visual tribute to Ronnie James Dio's iconic heavy metal album Holy Diver, subtly referencing DIO's years spent trapped at the bottom of the ocean."
   }
 ]
+
