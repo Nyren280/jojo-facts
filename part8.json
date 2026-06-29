@@ -2,12 +2,166 @@
   {
     "id": 1,
     "part": 8,
-    "title": "Josuke Higashikata (Gappy)",
+    "title": "The Quad-Gonadal Biological Fusion",
     "character": "Josuke Higashikata",
-    "category": "Character",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Easy",
+    "source": "JoJolion",
+    "fact": "The protagonist of Part 8, affectionately nicknamed 'Gappy' by the fandom, is not a single person but a biological fusion of two completely different individuals: Josefumi Kujo and Yoshikage Kira. As a result of this subterranean dirt fusion, he possesses unique physical anomalies, including four testicles, a gap tooth, and dual-colored irises."
+  },
+  {
+    "id": 2,
+    "part": 8,
+    "title": "The Debut Prince R&B Catalyst",
+    "character": "Josuke Higashikata",
+    "category": "Trivia",
     "spoiler": false,
     "difficulty": "Easy",
     "source": "JoJolion",
-    "fact": "Josuke Higashikata, often called 'Gappy', is the protagonist of JoJolion."
+    "fact": "Josuke's bubble-generating Stand, Soft & Wet, derives its name from the ultra-smooth 1978 debut R&B single 'Soft and Wet' by Prince. This marks a continuation of Araki's heavy reliance on Prince's discography for his main character dynamics, carrying over from Part 5."
+  },
+  {
+    "id": 3,
+    "part": 8,
+    "title": "The Seismological Post-Disaster Landscape",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "JoJolion",
+    "fact": "The setting of Morioh Town was dramatically altered for Part 8 to reflect real-world events. Following the catastrophic March 2011 Great East Japan Earthquake and tsunami, Araki completely shifted the narrative's prologue to incorporate the emergence of the 'Wall Eyes'—bizarre fault-line ridges that rose from the ground during the disaster."
+  },
+  {
+    "id": 4,
+    "part": 8,
+    "title": "The High-Stakes Coleopteran Combat",
+    "character": "Jobin Higashikata",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "JoJolion",
+    "fact": "The infamous 'Beetle Tendency' arc features Josuke and Jobin engaging in a hyper-intense, psychological bet using real stag beetles. Araki treated this sequence with the severe narrative weight of a life-or-death battle, drawing directly from the popular, nostalgic Japanese hobby of competitive insect breeding."
+  },
+  {
+    "id": 5,
+    "part": 8,
+    "title": "The Carbon-Based Lithic Taxonomy",
+    "character": "Staff",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "JoJolion",
+    "fact": "Part 8 introduces 'Rock Humans,' an entirely separate silicon-based hominid species that lives secretly alongside regular carbon-based human society. They undergo long periods of hibernation turning completely to solid stone, possess no innate concept of familial empathy, and naturally dominate the black-market pharmaceutical trade."
+  },
+  {
+    "id": 6,
+    "part": 8,
+    "title": "The Decadal Serialization Milestone",
+    "character": "Staff",
+    "category": "Manga History",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "JoJolion",
+    "fact": "Running continuously in Ultra Jump from May 2011 to August 2021, JoJolion officially holds the grand record as the longest single uninterrupted part in the entire history of the franchise, taking exactly 10 years and 3 months to complete its complex mystery narrative."
+  },
+  {
+    "id": 7,
+    "part": 8,
+    "title": "The Apotropaic Carceral Wardrobe Trick",
+    "character": "Tsurugi Higashikata",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "JoJolion",
+    "fact": "The youngest child of the Higashikata family, Tsurugi, is biological male but is intentionally raised and dressed as a girl early on. This is an explicit in-universe nod to an ancient regional superstition meant to trick the family's hereditary 'Rock Curse,' which exclusively claims the lives of the firstborn male children."
+  },
+  {
+    "id": 8,
+    "part": 8,
+    "title": "The Lithic Equivalent Exchange",
+    "character": "Staff",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "JoJolion",
+    "fact": "The central MacGuffin of Part 8 is the mystical Locacaca (Rokakaka) fruit. When consumed by a human, it performs a literal medical miracle via 'equivalent exchange'—instantly curing any disease or regrowing a shattered organ, but at the cost of turning another random, vital part of the user's body into solid, petrified stone."
+  },
+  {
+    "id": 9,
+    "part": 8,
+    "title": "The Implacable Logic of Calamity",
+    "character": "Tooru",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "JoJolion",
+    "fact": "The main antagonist's Stand, Wonder of U, operates on an absolute rule-based concept of passive karma. Rather than attacking directly, it targets anyone who attempts to pursue, investigate, or even harbor the mental intent to track its user, weaponizing the natural laws of energy to cause mundane objects like rain or a stray door to hit them with lethal, crushing force."
+  },
+  {
+    "id": 10,
+    "part": 8,
+    "title": "The Zero-Dimension Quantum Loophole",
+    "character": "Josuke Higashikata",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Hard",
+    "source": "JoJolion",
+    "fact": "To bypass the absolute logic of Wonder of U's bad luck field, Josuke evolves his Stand into 'Soft & Wet: Go Beyond'. This technique shoots bubbles created by a spinning string that is infinitely thin, meaning the projectile mathematically possesses a width of zero and technically does not exist in this reality, allowing it to bypass all rules of the universe."
+  },
+  {
+    "id": 11,
+    "part": 8,
+    "title": "The Topographical Guidance Matrix",
+    "character": "Yasuho Hirose",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "JoJolion",
+    "fact": "Yasuho Hirose's investigative Stand, Paisley Park, is a direct musical shout-out to Prince's iconic 1985 song, record label, and studio complex. True to its modern tech-era setting, the Stand manifests primarily through electronic GPS map interfaces and data streams to guide allies down the safest topographical path."
+  },
+  {
+    "id": 12,
+    "part": 8,
+    "title": "The Hyper-Inflationary Wealth Curse",
+    "character": "Joshu Higashikata",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "JoJolion",
+    "fact": "During a standalone side-story arc, Joshu falls victim to the curse of 'Milagro Man'—a unique standalone Stand named after an Ozzy Osbourne track. The curse forces currency to replicate exponentially in the victim's possession, causing cash registers to give endless change and bank accounts to inflate to a terrifying, suffocating degree that leaves the victim physically buried in unspendable wealth."
+  },
+  {
+    "id": 13,
+    "part": 8,
+    "title": "The Jurisprudential Extortion Pathway",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "JoJolion",
+    "fact": "The setting for the 'Shakedown Road' arc—a street where trees and autumn leaves naturally slide dropped items back into people's hands to trick them into paying extortion fees—was inspired by Araki's fascination with localized zoning trickery and loopholes in neighborhood liability laws, merging street crime with surreal natural physics."
+  },
+  {
+    "id": 14,
+    "part": 8,
+    "title": "The Multiversal Mangaka Re-Emergence",
+    "character": "Rohan Kishibe",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "JoJolion",
+    "fact": "To the profound shock of the fandom, Part 4's Rohan Kishibe makes an explicit cameo appearance during the final chronological flashback chapters of JoJolion. This version of Rohan is native to the alternate Steel Ball Run continuity, occupying a historical space where he traveled to the mountains of Japan to document the Locacaca fruit."
+  },
+  {
+    "id": 15,
+    "part": 8,
+    "title": "The West Coast Hip-Hop Ribbon Peel",
+    "character": "Rai Mamezuku",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "JoJolion",
+    "fact": "The eccentric plant appraiser Rai Mamezuku commands a Stand named Doggy Style, a direct musical nod to Snoop Dogg's legendary 1993 debut album. The ability allows him to unravel his body into peelable, highly durable ribbons, serving as Araki's modern, stylized reinvention of Jolyne Cujoh's string mechanics from Part 6."
   }
 ]
