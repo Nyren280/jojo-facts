@@ -2,12 +2,166 @@
   {
     "id": 1,
     "part": 6,
-    "title": "Jolyne Cujoh",
+    "title": "The Female Shonen Pioneer Blueprint",
     "character": "Jolyne Cujoh",
-    "category": "Character",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stone Ocean",
+    "fact": "Araki faced massive pushback from Weekly Shonen Jump editors when proposing a female protagonist for Part 6, as they believed readers wouldn't accept a woman in a high-stakes action battle manga. Araki refused to back down, stating that precisely because women are traditionally viewed as less physically imposing, the psychological and physical triumph of Jolyne would be inherently more powerful."
+  },
+  {
+    "id": 2,
+    "part": 6,
+    "title": "The Electric Guitar String Liberation",
+    "character": "Jolyne Cujoh",
+    "category": "Trivia",
     "spoiler": false,
     "difficulty": "Easy",
     "source": "Stone Ocean",
-    "fact": "Jolyne Cujoh is the protagonist of Stone Ocean and the first female JoJo protagonist."
+    "fact": "Jolyne's Stand, Stone Free, is named after the 1966 psychedelic rock track 'Stone Free' by The Jimi Hendrix Experience. This name matches her narrative drive to unravel her body into a string mechanism to literally break out of her physical confines at Green Dolphin Street Prison."
+  },
+  {
+    "id": 3,
+    "part": 6,
+    "title": "The Serialized Stairway to Heaven Alternate",
+    "character": "Enrico Pucci",
+    "category": "Manga History",
+    "spoiler": true,
+    "difficulty": "Hard",
+    "source": "Stone Ocean",
+    "fact": "In the original weekly magazine run of the manga, Father Pucci's ultimate, time-accelerating Stand was officially titled 'Stairway to Heaven' as a nod to the iconic Led Zeppelin track. For the volume releases and all future media, Araki permanently changed the name to 'Made in Heaven' to reference Queen's final studio album."
+  },
+  {
+    "id": 4,
+    "part": 6,
+    "title": "The Sentient Plankton Organism Collective",
+    "character": "Foo Fighters",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Stone Ocean",
+    "fact": "The ally Foo Fighters (F.F.) is completely unique because they are not a human Stand user; they *are* the Stand itself. F.F. is a collective colony of hyper-evolved, sentient plankton given life by Pucci's Stand discs, inhabiting the biological corpse of deceased inmate Atloe to interact with the world."
+  },
+  {
+    "id": 5,
+    "part": 6,
+    "title": "The Gastropod Subliminal Optical Frenzy",
+    "character": "Weather Report",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stone Ocean",
+    "fact": "The bizarre 'Heavy Weather' ability doesn't physically alter a person's genetics into a snail. Instead, it alters the atmosphere's light refraction to project a mass-scale subliminal message. Anyone who looks at the light is psychologically tricked by their own subconscious mind into believing they are turning into a snail, manifesting somatic symptoms."
+  },
+  {
+    "id": 6,
+    "part": 6,
+    "title": "The Intellectual Property Nightmare",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Stone Ocean",
+    "fact": "The Stand Bohemian Rhapsody—which brings fictional characters like Mickey Mouse, Spider-Man, and Pinocchio to life—created massive legal and copyright headaches for localization teams. The anime adaptation had to meticulously swap out specific high-profile Western pop culture cameos for generic folklore or public domain figures to avoid lawsuits."
+  },
+  {
+    "id": 7,
+    "part": 6,
+    "title": "The Cosmic Acceleration Universal Reset",
+    "character": "Enrico Pucci",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Easy",
+    "source": "Stone Ocean",
+    "fact": "Made in Heaven achieves Pucci's goal of 'Heaven' by accelerating gravitational time to the absolute point of singularity. This forces the entire physical universe to collapse and rebirth into a brand-new timeline where every living human subconsciously knows their exact destiny beforehand, eliminating existential fear."
+  },
+  {
+    "id": 8,
+    "part": 6,
+    "title": "The Tactical Removal of the Icon",
+    "character": "Jotaro Kujo",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stone Ocean",
+    "fact": "Araki deliberately had Jotaro Kujo's Stand memories and soul disc stolen by Pucci early in the plot. He did this because Jotaro’s Star Platinum was too overwhelmingly powerful for standard prison conflicts, and removing him completely forced Jolyne to solve her own crises without relying on her legendary father."
+  },
+  {
+    "id": 9,
+    "part": 6,
+    "title": "The Pseudo-Scientific Cryptid Swarm",
+    "character": "Rikiel",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Stone Ocean",
+    "fact": "Rikiel's Stand, Sky High, uses no humanoid form, instead commanding real-world pseudo-scientific cryptids known as 'Rods' or 'Skyfish'. Araki drew inspiration from a popular late-90s conspiracy theory that claimed these fast-flying blurred anomalies on camera footage were undiscovered, heat-eating organisms."
+  },
+  {
+    "id": 10,
+    "part": 6,
+    "title": "The Rule of Three Memory Constriction",
+    "character": "Miu Miu",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stone Ocean",
+    "fact": "The defensive Stand Jail House Lock creates a complex mental puzzle by limiting its victims to retaining only three fresh pieces of information at any given time. As soon as a fourth fact is introduced, the oldest memory drops entirely out of the victim's brain, rendering strategic counter-attacks almost impossible."
+  },
+  {
+    "id": 11,
+    "part": 6,
+    "title": "The Historical Excavation Playback",
+    "character": "Donatello Versus",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stone Ocean",
+    "fact": "DIO’s illegitimate son Donatello Versus possesses the Stand Under World, which can unearth the 'memories' of the earth itself. By digging into the ground, it can physically manifest historical events that happened in that location—such as pulling a target into a real-time recreation of an airplane crash from the past."
+  },
+  {
+    "id": 12,
+    "part": 6,
+    "title": "The Sunshine State Carceral Isolation",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Stone Ocean",
+    "fact": "To accurately depict the oppressive, humid atmosphere of a Florida maximum-security prison, Araki traveled to the United States for an extensive research tour. He integrated real-world American prison layouts, swamp ecosystems, and local alligator infrastructure directly into Green Dolphin Street Prison."
+  },
+  {
+    "id": 13,
+    "part": 6,
+    "title": "The Nu-Metal Invisible Zombie Horde",
+    "character": "Sports Maxx",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Stone Ocean",
+    "fact": "The necromantic Stand Limp Bizkit—used by inmate Sports Maxx to reanimate invisible, bloodthirsty corpses—is an explicit musical shout-out to the American nu-metal band Limp Bizkit, reflecting the early 2000s music scene during Part 6's original publication window."
+  },
+  {
+    "id": 14,
+    "part": 6,
+    "title": "The Fluid Gender Inversion Enigma",
+    "character": "Narciso Anasui",
+    "category": "Manga History",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Stone Ocean",
+    "fact": "When Narciso Anasui first debuts in chapter 55 of the manga, the character is explicitly drawn as a woman with feminine features. A few chapters later, Anasui is re-introduced as a distinct male character with no in-universe explanation, a shift heavily rumored to be due to editorial pushback regarding a potential same-sex romance with Jolyne."
+  },
+  {
+    "id": 15,
+    "part": 6,
+    "title": "The Runway-Ready Carceral Wardrobe",
+    "character": "Staff",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Stone Ocean",
+    "fact": "Part 6 leaned harder into modern high-fashion concepts than any previous section. Characters wore intricate, avant-garde outfits that defied traditional prison uniforms, drawing heavily from the patterns and silhouettes of luxury Italian brands like Gucci and Versace."
   }
 ]
