@@ -1,13 +1,167 @@
 [
   {
     "id": 1,
-    "part": 0,
-    "title": "Hirohiko Araki's Art Evolution",
-    "character": "Hirohiko Araki",
+    "part": 4,
+    "title": "The Louvre Museum Architectural Invitation",
+    "character": "Rohan Kishibe",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Rohan at the Louvre",
+    "fact": "Hirohiko Araki became the first manga artist in history to have their original artwork displayed at the world-renowned Louvre Museum in Paris. His full-color spin-off volume, *Rohan at the Louvre*, was created specifically for the museum's 'Le Louvre invite la bande dessinée' (The Louvre Invites Comic Art) initiative in 2009."
+  },
+  {
+    "id": 2,
+    "part": 6,
+    "title": "The High-Fashion Window Display Takeover",
+    "character": "Jolyne Cujoh",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stone Ocean",
+    "fact": "In 2013, Araki collaborated with the Italian luxury fashion house Gucci and the fashion magazine Spur. He created a unique cross-over manga featuring Jolyne Cujoh and Bruno Bucciarati wearing pieces from the real-world Gucci Cruise collection, which led to high-fashion JoJo artwork occupying the window displays of over 70 flagship Gucci boutiques worldwide."
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "title": "The Fast-Food Cross-Lingual Moniker Origin",
+    "character": "Jonathan Joestar",
     "category": "Trivia",
     "spoiler": false,
     "difficulty": "Easy",
-    "source": "Author Trivia",
-    "fact": "Hirohiko Araki's art style has evolved significantly over decades, with noticeable changes in character design and fashion influence."
+    "source": "Phantom Blood",
+    "fact": "The name 'JoJo' was chosen by Araki because he wanted a catchy, repeating alliterative syllable that sounded like a casual Western nickname. A long-standing rumor suggests the idea struck him while dining at a 'Jonathan's' family restaurant chain in Japan, though Araki has also cited the Beatles song 'Get Back' as a structural influence."
+  },
+  {
+    "id": 4,
+    "part": 3,
+    "title": "The Global Copyright Localization Metamorphosis",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Stardust Crusaders",
+    "fact": "To avoid massive, multi-million dollar intellectual property lawsuits in Western territories, localizers had to heavily alter Stand names for international video game and anime releases. Iconic musical references were changed to phonetically or conceptually similar alternatives, permanently turning 'Crazy Diamond' into 'Shining Diamond' and 'Gold Experience' into 'Golden Wind'."
+  },
+  {
+    "id": 5,
+    "part": 4,
+    "title": "The High-Cosmetic Avant-Garde Translation",
+    "character": "Staff",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Diamond Is Unbreakable",
+    "fact": "Renowned Shiseido hair and makeup artist Tadashi Harada spent years physically recreating the bizarre, gravity-defying hairstyles and abstract cosmetics of characters like Rohan Kishibe and Jolyne Cujoh using real human models. The resulting live-action high-fashion photography collections won critical acclaim across the global beauty industry for their meticulous accuracy."
+  },
+  {
+    "id": 6,
+    "part": 3,
+    "title": "The Tobacco Silhouette Shadows",
+    "character": "Jotaro Kujo",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stardust Crusaders",
+    "fact": "In the animated television broadcast of Part 3, Jotaro Kujo's mouth is frequently obscured by an unnatural black void whenever he smokes a cigarette. This severe visual censorship was legally mandatory for Japanese television networks because Jotaro is explicitly stated to be 17 years old, making underage smoking illegal to depict unfiltered on broadcast media."
+  },
+  {
+    "id": 7,
+    "part": 3,
+    "title": "The Ghostly Spatial Apparition Epiphany",
+    "character": "Staff",
+    "category": "Manga History",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stardust Crusaders",
+    "fact": "Araki invented the concept of 'Stands' because he felt the invisible, mystical energy of Hamon (Ripple) had hit a creative ceiling. He wanted a way to visually represent supernatural power standing physically right next to a character, drawing heavy inspiration from ancient guardian spirits, tarot cards, and animism to revolutionize the shonen battle genre."
+  },
+  {
+    "id": 8,
+    "part": 3,
+    "title": "The Carceral Amusement Park Dream",
+    "character": "Jean Pierre Polnareff",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Stardust Crusaders",
+    "fact": "Jean Pierre Polnareff's recurring gag of wanting to build his own amusement park, 'Polnareff Land,' achieved a meta-triumph in real life. For the franchise's 30th anniversary, the Tokyo Dome City attraction was briefly rebranded and completely converted into a massive real-world JoJo-themed puzzle escape experience matching his dream layout."
+  },
+  {
+    "id": 9,
+    "part": 3,
+    "title": "The Aborted Cowboy Redemption Arc",
+    "character": "Hol Horse",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Stardust Crusaders",
+    "fact": "Araki seriously considered changing the cowardly gunslinger Hol Horse into a permanent member of the Stardust Crusaders hero crew. However, he ultimately scrapped the idea because Hol Horse's gun-based Stand, Emperor, lacked tactical visual versatility for complex puzzles, and his personality overlapped too heavily with the hot-headed Polnareff."
+  },
+  {
+    "id": 10,
+    "part": 1,
+    "title": "The Absolute Finality of the Corporeal Form",
+    "character": "Staff",
+    "category": "Manga History",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Phantom Blood",
+    "fact": "One of Araki's core narrative philosophies is that deceased characters must stay dead. He strongly believes that resurrecting fallen heroes completely cheapens the stakes and the dramatic weight of their initial sacrifices, a narrative rule he has strictly maintained across all nine parts with very rare exceptions involving spiritual integration."
+  },
+  {
+    "id": 11,
+    "part": 2,
+    "title": "The Eternal Cryogenic Cosmic Drifter",
+    "character": "Kars",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Easy",
+    "source": "Battle Tendency",
+    "fact": "The Ultimate Lifeform Kars holds the record for being the longest-surviving antagonist, but with the most tragic fate. After being launched into the vacuum of space by a volcanic eruption, his body froze into solid ice, forcing him to drift endlessly through the cosmos. Because he was immortal and could not die, he eventually stopped thinking altogether."
+  },
+  {
+    "id": 12,
+    "part": 4,
+    "title": "The Immortal Mangaka Folklore",
+    "character": "Rohan Kishibe",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Franchise",
+    "fact": "A massive running joke within the global anime community claims that Hirohiko Araki is actually a real-world vampire or Hamon user. This meme stems from the fact that despite being born in 1960, Araki's physical appearance has barely aged across four decades of serialization, mirroring the eternal youth of his characters."
+  },
+  {
+    "id": 13,
+    "part": 1,
+    "title": "The Pre-Joestar Bio-Weapon Precursor",
+    "character": "Staff",
+    "category": "Manga History",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Phantom Blood",
+    "fact": "Before writing JoJo, Araki created *Baoh*, a short-lived 1984 sci-fi manga about a teenager infused with a biological parasite. Many core aesthetic tropes of JoJo—including over-the-top anatomical battle cries, body horror transformations, and unique physical poses—were directly prototyped during *Baoh*'s brief serialization run."
+  },
+  {
+    "id": 14,
+    "part": 3,
+    "title": "The Vertical Gravity-Defying Silhouette",
+    "character": "Jean Pierre Polnareff",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stardust Crusaders",
+    "fact": "Jean Pierre Polnareff's distinctive flat-top cylinder hair design was inspired by the French character 'Rudol von Stroheim' from Part 2, as well as real-world 1980s high-fashion runway hair styling. His striking look later became the direct visual blueprint for the legendary character Guile in Capcom's *Street Fighter II*."
+  },
+  {
+    "id": 15,
+    "part": 3,
+    "title": "The Infamous North American Bootleg Mutation",
+    "character": "Staff",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Stardust Crusaders",
+    "fact": "Long before JoJo received an official English translation, a notorious American comic book called *Diesel* was published in 1997. It was an almost panel-for-panel unlicensed bootleg copy of *Stardust Crusaders*, tracing Jotaro’s battle with late-90s art while changing character names and settings to hide the blatant plagiarism."
   }
 ]
