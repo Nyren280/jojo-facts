@@ -1,180 +1,65 @@
-# 🌀 JoJo Daily Facts Database
+# JoJo Facts Database
 
-A community-driven database of **JoJo's Bizarre Adventure** facts designed for Discord bots, webhooks, Scriptable, and other applications.
+This repository is a modular, JSON-based collection of facts about JoJo's Bizarre Adventure. It is designed so new databases can be added without changing code: the master index (database.json) lists every data file the application should read.
 
-## Features
+Repository structure
 
-- 📖 Hundreds of curated JoJo facts
-- 🎲 Random fact selection
-- 🔄 No-repeat support
-- 🌐 GitHub-hosted JSON database
-- 📦 Easy to expand
-- ⚡ Works with Scriptable, Discord bots, and web applications
+- database.json — master index listing all database files and metadata
+- progress.json — tracks which facts have been posted and when
+- part1.json ... part9.json — part-specific fact databases
+- stands.json, hamon.json, spin.json — technique and Stand databases
+- protagonists.json, villains.json, allies.json — character group databases
+- locations.json — in-universe locations
+- anime.json, manga.json — production and publication facts
+- trivia.json — behind-the-scenes facts
+- eastereggs.json — hidden references and callbacks
+- README.md — this file
+- .gitignore — local ignores
 
----
+JSON schema for fact objects
 
-# Repository Structure
+Every facts file is a JSON array of objects. Each object should follow this schema:
 
-```
-jojo-facts/
-│
-├── README.md
-├── database.json
-├── progress.json
-│
-├── part1.json
-├── part2.json
-├── part3.json
-├── part4.json
-├── part5.json
-├── part6.json
-├── part7.json
-├── part8.json
-├── part9.json
-│
-├── stands.json
-├── hamon.json
-├── spin.json
-├── protagonists.json
-├── villains.json
-├── allies.json
-├── locations.json
-├── anime.json
-├── manga.json
-├── trivia.json
-└── eastereggs.json
-```
+{
+  "id": 1,
+  "part": 1,
+  "title": "Jonathan Joestar",
+  "character": "Jonathan Joestar",
+  "category": "Character",
+  "spoiler": false,
+  "difficulty": "Easy",
+  "source": "Phantom Blood",
+  "fact": "Jonathan Joestar is the first JoJo in the series."
+}
 
----
+Guidelines and conventions
 
-# Database Format
+- Use numeric, unique `id` values per file (start at 1 for each file).
+- `part` should be the originating part number where applicable, or 0 if not applicable.
+- `category` should be one of: Character, Stand, Technique, Location, Anime, Manga, Trivia, Easter Egg, etc.
+- `spoiler` toggles whether the fact contains major spoilers (true/false).
+- `difficulty` is a human-readable classification (Easy/Medium/Hard).
+- Keep `fact` concise and self-contained.
 
-Each JSON file contains an array of fact objects.
+How the application uses database.json
 
-Example:
+The application should read database.json first to discover which files to load. This allows adding new files without a code change — only database.json needs updating.
 
-```json
-[
-  {
-    "id": 1,
-    "part": 3,
-    "character": "Jotaro Kujo",
-    "category": "Stand",
-    "spoiler": false,
-    "fact": "Star Platinum possesses incredible speed, precision, and strength."
-  }
-]
-```
+Contribution guidelines
 
----
+1. Fork the repository and create a branch for your changes.
+2. Add or update JSON files; keep the schema consistent.
+3. Add meaningful commit messages and open a pull request describing the changes.
+4. Avoid adding personally identifiable information.
 
-# Fact Fields
+Future goals and recommendations
 
-| Field | Description |
-|--------|-------------|
-| id | Unique ID within the file |
-| part | JoJo Part number |
-| character | Main character related to the fact |
-| category | Type of fact |
-| spoiler | Indicates if the fact contains spoilers |
-| fact | The fact text |
+- Expand the dataset to 1,000+ curated facts across databases.
+- Add a validation script (Node.js/Python) to assert schema correctness and unique IDs.
+- Add CI checks to run the validation script on PRs.
+- Add scripts to export facts as CSV/Markdown for other tooling.
+- Consider tagging facts with additional metadata (tags, language, contributors).
 
----
+License
 
-# Categories
-
-Examples include:
-
-- Character
-- Stand
-- Hamon
-- Spin
-- Villain
-- Ally
-- Location
-- Race
-- Manga
-- Anime
-- Music Reference
-- Trivia
-- Behind the Scenes
-- Araki
-- Power System
-- Ability
-- Quote
-- Easter Egg
-
----
-
-# Parts Included
-
-- Phantom Blood
-- Battle Tendency
-- Stardust Crusaders
-- Diamond Is Unbreakable
-- Golden Wind
-- Stone Ocean
-- Steel Ball Run
-- JoJolion
-- The JOJOLands
-
----
-
-# Goals
-
-Current Goal
-
-- 500 curated facts
-
-Future Goals
-
-- 1,000 facts
-- Character images
-- Episode references
-- Manga chapter references
-- Anime episode references
-- Source citations
-- Multi-language support
-
----
-
-# Contributing
-
-Contributions are welcome.
-
-Please ensure:
-
-- Facts are accurate.
-- Avoid duplicate facts.
-- Keep grammar consistent.
-- Mark spoilers appropriately.
-- Use proper JSON formatting.
-
----
-
-# Example Applications
-
-This database can be used for:
-
-- Discord bots
-- Discord webhooks
-- Scriptable automation
-- Mobile widgets
-- Websites
-- Trivia games
-- JoJo quizzes
-- APIs
-
----
-
-# License
-
-This repository is intended for educational and fan projects.
-
-JoJo's Bizarre Adventure and its characters are the property of Hirohiko Araki and their respective copyright holders.
-
-This repository contains original fan-written trivia and metadata only and does not include copyrighted manga or anime content.
-
----
-
-## ⭐ Star the repository if you find it useful! for webhooks
+Specify a license in a future PR if needed.
