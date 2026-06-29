@@ -2,12 +2,167 @@
   {
     "id": 1,
     "part": 9,
-    "title": "Jodio Joestar",
+    "title": "The Rainmaking Colossus Silhouette",
     "character": "Jodio Joestar",
-    "category": "Character",
+    "category": "Manga Lore",
     "spoiler": false,
     "difficulty": "Easy",
     "source": "The JOJOLands",
-    "fact": "Jodio Joestar is the protagonist of The JOJOLands."
+    "fact": "Jodio Joestar's Stand, November Rain, breaks the long-standing tradition of humanoid close-range powerhouses for the main JoJo. Instead, it manifests as a massive, non-humanoid, four-legged creature that rains down heavy, localized droplets of water to physically crush targets beneath its gravitational weight."
+  },
+  {
+    "id": 2,
+    "part": 9,
+    "title": "The Guns N' Roses Melancholy",
+    "character": "Jodio Joestar",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "The JOJOLands",
+    "fact": "Jodio's Stand name is a direct homage to the classic 1992 hard rock ballad 'November Rain' by Guns N' Roses. This marks the first time a main franchise protagonist's starting Stand is named after a track by the legendary American band."
+  },
+  {
+    "id": 3,
+    "part": 9,
+    "title": "The Volcanic Lithic Magnetism",
+    "character": "Staff",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "The JOJOLands",
+    "fact": "The central plot catalyst of The JOJOLands revolves around mysterious volcanic Lava Rocks found on the Big Island of Hawaii. These rocks possess a bizarre passive law of nature: any valuable item placed near them will inevitably return to the rock, effectively acting as a cosmic magnet for material wealth."
+  },
+  {
+    "id": 4,
+    "part": 9,
+    "title": "The Sade Smooth Relocation",
+    "character": "Dragona Joestar",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "The JOJOLands",
+    "fact": "Jodio's older sibling, Dragona Joestar, commands a colony Stand of tiny humanoid entities called Smooth Operators. Named after the iconic 1984 Sade pop-jazz hit, the Stand can slide and rearrange physical properties on any surface, such as altering digital license plate numbers or physically moving wounds off a body."
+  },
+  {
+    "id": 5,
+    "part": 9,
+    "title": "The Hawaiian Archipelago Backdrop",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "The JOJOLands",
+    "fact": "The JOJOLands marks the first time in the franchise's history that the narrative takes place in a contemporary American island setting, specifically Oahu, Hawaii. Araki chose this location to explore modern themes of luxury tourism, underground drug economies, and localized Pacific maritime trade."
+  },
+  {
+    "id": 6,
+    "part": 9,
+    "title": "The Hustle Muscle Displacement",
+    "character": "Paco Laburantes",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "The JOJOLands",
+    "fact": "Paco Laburantes possesses the Stand 'The Hustle', named after Van McCoy's 1975 disco anthem. Unlike traditional spiritual projections, The Hustle is integrated directly into Paco's muscles, allowing him to expand, contract, and utilize his own muscle tissue to grab objects or climb sheer walls without using his hands."
+  },
+  {
+    "id": 7,
+    "part": 9,
+    "title": "The King Crimson Request Loophole",
+    "character": "Usagi Alohaoe",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "The JOJOLands",
+    "fact": "Usagi Alohaoe's Stand, The Matte Kudasai, is named after a 1981 track by the progressive rock band King Crimson. The Stand’s ability requires another person to make a specific request; it will then transform into any inanimate object desired, though it cannot grant wishes directly for Usagi himself."
+  },
+  {
+    "id": 8,
+    "part": 9,
+    "title": "The Eternal Mangaka Convergence",
+    "character": "Rohan Kishibe",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Easy",
+    "source": "The JOJOLands",
+    "fact": "In a massive twist during the opening arc, the wealthy Japanese tourist targeted by Jodio's crew is revealed to be Rohan Kishibe. This cements Rohan as the only character to appear prominently in both the original universe (Part 4) and the alternate continuity (Parts 8 and 9)."
+  },
+  {
+    "id": 9,
+    "part": 9,
+    "title": "The Mechanism of Capitalist Ascent",
+    "character": "Jodio Joestar",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "The JOJOLands",
+    "fact": "Araki has stated that Jodio's primary drive to become 'filthy rich' is an exploration of the 'mechanisms' of the modern global economy. Rather than a purely greedy motivation, Jodio views wealth and legal systems as a series of invisible structural gears that one must master to protect their family."
+  },
+  {
+    "id": 10,
+    "part": 9,
+    "title": "The Smiths Camouflage Disruption",
+    "character": "Charmingman",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "The JOJOLands",
+    "fact": "The enigmatic ally Charmingman commands a Stand officially titled Bigmouth Strikes Again, an explicit nod to the 1986 indie rock track by The Smiths. The Stand allows him to shred his body and surroundings into sand-like skin fragments to create hyper-realistic sensory optical illusions and structural camouflage."
+  },
+  {
+    "id": 11,
+    "part": 9,
+    "title": "The SBR Alternate Lineage Link",
+    "character": "Jodio Joestar",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "The JOJOLands",
+    "fact": "Jodio and Dragona are revealed to be the grandchildren of Joseph Joestar (the alternate version introduced at the end of Part 8), making them the direct nephews of Holy Joestar-Kira and cousins to JoJolion's Yoshikage Kira, firmly anchoring them to the core Steel Ball Run family tree."
+  },
+  {
+    "id": 12,
+    "part": 9,
+    "title": "The Feline Wire Entanglement",
+    "character": "Staff",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "The JOJOLands",
+    "fact": "The group faces a trio of stray cats on the Big Island whose shared Stand, Cat Size, creates near-invisible, razor-sharp strings in mid-air. This continues Araki's recurring tradition of featuring highly lethal animal Stand users who act as biological security systems for anomalous locations."
+  },
+  {
+    "id": 13,
+    "part": 9,
+    "title": "The Dynamic Duo Diamond Heist",
+    "character": "Staff",
+    "category": "Manga History",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "The JOJOLands",
+    "fact": "The opening chapters of The JOJOLands structure the story as a classic cinematic heist movie. The plot centers on a tight 4-person crew executing a coordinated break-in at a luxury villa, a narrative format completely unique compared to the spontaneous or reactive battles of previous JoJo prologues."
+  },
+  {
+    "id": 14,
+    "part": 9,
+    "title": "The Non-Binary Fashion Vanguard",
+    "character": "Dragona Joestar",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "The JOJOLands",
+    "fact": "Dragona Joestar’s character design heavily showcases Araki's progressive approach to modern fashion and identity. Dragona wears highly stylized feminine resort wear and fluidly challenges traditional gender boundaries, earning widespread acclaim for bringing nuanced queer representation to a major monthly seinen magazine."
+  },
+  {
+    "id": 15,
+    "part": 9,
+    "title": "The Psychopathic Diagnostic Spectrum",
+    "character": "Jodio Joestar",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "The JOJOLands",
+    "fact": "In the very first chapter, it is revealed through a school psychological evaluation that the 15-year-old Jodio possesses traits of antisocial personality disorder. Araki uses this clinical detail to frame Jodio's cold, calculated detachment during combat as a psychological reality rather than just standard anime anti-hero bravado."
   }
 ]
+
