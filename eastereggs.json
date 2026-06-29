@@ -1,13 +1,277 @@
 [
-  {
-    "id": 1,
-    "part": 3,
-    "title": "Easter Egg: Western Music References",
-    "character": "N/A",
-    "category": "Easter Egg",
-    "spoiler": false,
-    "difficulty": "Easy",
-    "source": "Series Trivia",
-    "fact": "Araki frequently uses references to Western music—band and song names appear throughout JoJo in character and Stand names."
-  }
+{
+"id": 1,
+"part": 1,
+"title": "The Root of the Color Pallete Swaps",
+"character": "Production",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Medium",
+"source": "Phantom Blood",
+"fact": "The sudden, dramatic color palette shifts during intense battle scenes were introduced by David Production to directly pay homage to Hirohiko Araki’s habit of changing color schemes on his manga volume covers and special color pages."
+},
+{
+"id": 2,
+"part": 1,
+"title": "The Multi-Decade 'Roundabout' License",
+"character": "Staff",
+"category": "Trivia",
+"spoiler": false,
+"difficulty": "Easy",
+"source": "Phantom Blood",
+"fact": "The iconic progressive rock song 'Roundabout' by Yes was chosen as the Part 1 and 2 ending theme because Hirohiko Araki heavily listened to the band while drawing the early manga chapters in the late 1980s."
+},
+{
+"id": 3,
+"part": 1,
+"title": "The Buried 2007 Movie Disaster",
+"character": "Jonathan Joestar",
+"category": "Trivia",
+"spoiler": false,
+"difficulty": "Hard",
+"source": "Phantom Blood",
+"fact": "Before David Production took over the franchise, Studio APPP released a theatrical Phantom Blood movie in Japan in 2007. Due to severe fan backlash over massive plot cuts (such as completely removing Speedwagon), the film was buried and never received a home video release."
+},
+{
+"id": 4,
+"part": 2,
+"title": "Visual Spoilers in Bloody Stream",
+"character": "Caesar Anthonio Zeppeli",
+"category": "Production",
+"spoiler": true,
+"difficulty": "Medium",
+"source": "Battle Tendency",
+"fact": "The silhouette opening sequence for 'Bloody Stream' heavily foreshadows Caesar’s death; a specific frame shows Joseph crying while wearing Caesar’s signature headband well before the event happens in the story."
+},
+{
+"id": 5,
+"part": 2,
+"title": "The Aztec Trap Infusion",
+"character": "The Pillar Men",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Easy",
+"source": "Battle Tendency",
+"fact": "Composer Taku Iwasaki designed the Pillar Men's iconic theme, 'Awaken,' by intentionally fusing traditional, ancient Aztec-inspired vocal chanting with modern electronic trap beats to make them feel uniquely intimidating and otherworldly."
+},
+{
+"id": 6,
+"part": 3,
+"title": "Jotaro's Lifelong Fan Voice Actor",
+"character": "Jotaro Kujo",
+"category": "Voice Acting",
+"spoiler": false,
+"difficulty": "Medium",
+"source": "Stardust Crusaders",
+"fact": "Jotaro's voice actor, Daisuke Ono, was an obsessive fan of the JoJo manga since his youth. He kept a full collection of the manga on his recording studio desk for instant reference to ensure his vocal delivery perfectly matched Araki's original panel layout."
+},
+{
+"id": 7,
+"part": 3,
+"title": "The Oil Tanker vs. Steamroller Split",
+"character": "DIO",
+"category": "Trivia",
+"spoiler": true,
+"difficulty": "Hard",
+"source": "Stardust Crusaders",
+"fact": "In the 2000 Studio APPP OVA adaptation of the DIO fight, the iconic steamroller attack was replaced with a massive oil tanker truck because the animators felt exploding liquid fuel translated better to an action sequence than a construction vehicle."
+},
+{
+"id": 8,
+"part": 3,
+"title": "The Voice Actor Isolation Protocol",
+"character": "Takehito Koyasu",
+"category": "Voice Acting",
+"spoiler": false,
+"difficulty": "Medium",
+"source": "Stardust Crusaders",
+"fact": "To accurately capture DIO's overwhelming aura of superiority and detachment from humanity, voice actor Takehito Koyasu intentionally isolated himself from the rest of the voice cast in the studio lounge during break periods."
+},
+{
+"id": 9,
+"part": 3,
+"title": "The Organic Stand Rush Audio",
+"character": "Production",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Hard",
+"source": "Stardust Crusaders",
+"fact": "Sound effects designer Yasumasa Koyama deliberately avoided using generic sci-fi digital elements for Stand rushes. Instead, he mixed highly processed audio of physical leather impacts and organic body thuds to give 'Ora' and 'Muda' barrages a heavy, bone-crushing reality."
+},
+{
+"id": 10,
+"part": 3,
+"title": "The Unplanned 'Rero Rero' Improvisation",
+"character": "Noriaki Kakyoin",
+"category": "Voice Acting",
+"spoiler": false,
+"difficulty": "Medium",
+"source": "Stardust Crusaders",
+"fact": "Kakyoin's bizarre cherry-licking sound sequence was heavily emphasized by voice actor Daisuke Hirakawa, who repeatedly practiced the specific rolling tongue noise at home until his delivery was strange enough to win over the director on the first take."
+},
+{
+"id": 11,
+"part": 3,
+"title": "The Original Luxor Photo Addition",
+"character": "The Stardust Crusaders",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Medium",
+"source": "Stardust Crusaders",
+"fact": "The specific scene showing the Stardust Crusaders pulling over to take their iconic group photo in Luxor, Egypt was a completely original addition by the anime production team to make the journey feel more sentimental before the final battle."
+},
+{
+"id": 12,
+"part": 4,
+"title": "The Surreal Yellow Sky Matrix",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Easy",
+"source": "Diamond Is Unbreakable",
+"fact": "The sky over the town of Morioh is permanently rendered in a bright, surreal yellow color instead of standard blue to emphasize the town's uncanny, isolated atmosphere and give it a stylized, comic-book aesthetic."
+},
+{
+"id": 13,
+"part": 4,
+"title": "The 'Bites the Dust' Opening Rewind",
+"character": "Yoshikage Kira",
+"category": "Production",
+"spoiler": true,
+"difficulty": "Easy",
+"source": "Diamond Is Unbreakable",
+"fact": "When the 'Bites the Dust' story arc triggers in the anime, the actual opening animation sequence ('Great Days') physically reverses its frames and distorts its audio to visually indicate to the viewer that the timeline has been forcibly reset."
+},
+{
+"id": 14,
+"part": 4,
+"title": "The Ultimate Jojo Vocal Choir",
+"character": "Staff",
+"category": "Trivia",
+"spoiler": false,
+"difficulty": "Hard",
+"source": "Diamond Is Unbreakable",
+"fact": "For the absolute final episodes of Part 4, the opening theme was swapped to the 'Units' version, which brought back every single vocal artist who had performed a JoJo opening theme since Part 1 to sing the chorus together."
+},
+{
+"id": 15,
+"part": 5,
+"title": "The Viral Piano Progression Genesis",
+"character": "Giorno Giovanna",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Easy",
+"source": "Golden Wind",
+"fact": "Giorno Giovanna’s theme song, 'Il vento d'oro,' achieved massive mainstream internet fame outside the anime community, specifically due to its dramatic 4-bar piano solo at the 3:45 mark that signifies an absolute victory."
+},
+{
+"id": 16,
+"part": 5,
+"title": "The Torture Dance Expansion",
+"character": "Mista, Narancia, & Fugo",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Easy",
+"source": "Golden Wind",
+"fact": "In the original manga, the famous 'Torture Dance' sequence lasted for only four distinct panels. The anime adaptation expanded this into a full one-minute, meticulously choreographed, psychedelic musical sequence that took months to animate."
+},
+{
+"id": 17,
+"part": 5,
+"title": "The Seven-Page Vocal Bleed",
+"character": "Giorno Giovanna",
+"category": "Voice Acting",
+"spoiler": false,
+"difficulty": "Medium",
+"source": "Golden Wind",
+"fact": "To record the legendary '7-page Muda' barrage against Cioccolata, Giorno's voice actor Kensho Ono spent weeks practicing continuous rapid vocalizations in his car, ultimately pushing his voice until his vocal cords bled during the final studio session."
+},
+{
+"id": 18,
+"part": 5,
+"title": "The King Crimson Frame Skipping",
+"character": "Diavolo",
+"category": "Production",
+"spoiler": true,
+"difficulty": "Hard",
+"source": "Golden Wind",
+"fact": "When King Crimson activates its time-erasure ability, the animators simulate the effect by literally dropping specific layout frames and cutting the audio background track on a hard stutter, mimicking an edited video tape."
+},
+{
+"id": 19,
+"part": 5,
+"title": "The Special Trapped Opening Variant",
+"character": "Diavolo",
+"category": "Production",
+"spoiler": true,
+"difficulty": "Medium",
+"source": "Golden Wind",
+"fact": "During the final story arc, Diavolo physically intercepts the anime's opening sequence ('Uragirimono no Requiem'), breaking the standard animation flow to walk across the screen and monologue for several seconds before letting the song resume."
+},
+{
+"id": 20,
+"part": 6,
+"title": "A Career Spawned by Passion",
+"character": "Jolyne Cujoh",
+"category": "Voice Acting",
+"spoiler": false,
+"difficulty": "Medium",
+"source": "Stone Ocean",
+"fact": "Jolyne’s voice actress, Fairouz Ai, explicitly entered the professional voice-acting industry because it was her lifelong childhood dream to play Jolyne Cujoh in a hypothetical future anime adaptation of Stone Ocean."
+},
+{
+"id": 21,
+"part": 6,
+"title": "The Return of Kamikaze Douga's 3D CGI",
+"character": "Production",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Easy",
+"source": "Stone Ocean",
+"fact": "Stone Ocean's first opening sequence marked the return of animation studio Kamikaze Douga to produce the opening graphics in high-fidelity 3D CGI, a visual style that had been absent since Part 3's final opening."
+},
+{
+"id": 22,
+"part": 6,
+"title": "The Full-Circle Symphonic Wrap",
+"character": "Staff",
+"category": "Trivia",
+"spoiler": true,
+"difficulty": "Medium",
+"source": "Stone Ocean",
+"fact": "The very final episode of Stone Ocean replaces its standard ending credits with 'Roundabout' from Parts 1 and 2, while showing a rapid-fire montage of every previous JoJo protagonist to conclude the decade-long original universe adaptation."
+},
+{
+"id": 23,
+"part": 4,
+"title": "The Rohan OVA Structural Realignment",
+"character": "Rohan Kishibe",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Hard",
+"source": "Thus Spoke Kishibe Rohan",
+"fact": "The spin-off OVA series 'Thus Spoke Kishibe Rohan' completely ditches the blocky, angular 90s art style used in the main Part 4 anime, adopting a sleek, rounded visual language that replicates Hirohiko Araki’s modern, high-fashion 21st-century drawing method."
+},
+{
+"id": 24,
+"part": 5,
+"title": "The Real-Life Italian Location Scouting",
+"character": "Production",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Hard",
+"source": "Golden Wind",
+"fact": "Before starting production on Golden Wind, the core animation team at David Production took an extensive reference trip to Italy, mapping out specific streets, architecture, and lighting conditions in Rome, Naples, and Venice to ensure authentic background details."
+},
+{
+"id": 25,
+"part": 3,
+"title": "The Iggy Structural Shift",
+"character": "Iggy",
+"category": "Production",
+"spoiler": false,
+"difficulty": "Easy",
+"source": "Stardust Crusaders",
+"fact": "The animators carefully preserved Iggy’s facial evolution from the manga; he starts the Egypt arc rendered as a realistic, non-expressive Boston Terrier dog, but gradually transforms into an intensely human-faced, expressive cartoon figure as his personality shifts."
+}
 ]
+
