@@ -2,12 +2,166 @@
   {
     "id": 1,
     "part": 5,
-    "title": "Giorno Giovanna",
+    "title": "The Genetics of a Dual Bloodline",
     "character": "Giorno Giovanna",
-    "category": "Character",
+    "category": "Manga Lore",
     "spoiler": false,
     "difficulty": "Easy",
     "source": "Golden Wind",
-    "fact": "Giorno Giovanna is the protagonist of Golden Wind and aspires to be a 'Gang-Star'."
+    "fact": "Giorno Giovanna is biologically the son of DIO, but because DIO possessed Jonathan Joestar's severed body from the neck down, Giorno inherits the iconic Joestar star birthmark and genetic lineage, making him a true Joestar descendant."
+  },
+  {
+    "id": 2,
+    "part": 5,
+    "title": "The Seven-Page Golden Barrage",
+    "character": "Giorno Giovanna",
+    "category": "Manga History",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Golden Wind",
+    "fact": "The brutal beatdown Giorno delivers to the villainous doctor Cioccolata spans a historic seven continuous pages in the original manga serialization. It stands as the absolute longest uninterrupted Stand rush ('Muda Muda') in the entire franchise."
+  },
+  {
+    "id": 3,
+    "part": 5,
+    "title": "The Unlucky Tetraphobia Omission",
+    "character": "Guido Mista",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Golden Wind",
+    "fact": "Guido Mista suffers from severe tetraphobia (fear of the number 4), believing it brings absolute misfortune. To accommodate this, his colony Stand Sex Pistols consists of six sentient bullet spirits numbered 1 through 7, completely skipping the number 4."
+  },
+  {
+    "id": 4,
+    "part": 5,
+    "title": "The Prince Album Title Transformation",
+    "character": "Giorno Giovanna",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Golden Wind",
+    "fact": "Giorno's Stand, Gold Experience, is named after the 1995 studio album *The Gold Experience* by the legendary American musician Prince. This continued Araki's deep fondness for naming core protagonist abilities after contemporary pop royalty."
+  },
+  {
+    "id": 5,
+    "part": 5,
+    "title": "The Silent Cinema Bob Hairstyle",
+    "character": "Bruno Bucciarati",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Golden Wind",
+    "fact": "Bruno Bucciarati’s distinct, fashion-forward visual design—specifically his sharp black bob hair layout adorned with golden hair clips—was heavily inspired by the iconic look of 1920s American silent film actress Louise Brooks."
+  },
+  {
+    "id": 6,
+    "part": 5,
+    "title": "The Linguistical Hellish Dichotomy",
+    "character": "Diavolo & Doppio",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Golden Wind",
+    "fact": "The split personalities of the main antagonist are coded directly into their Italian names. 'Diavolo' translates literally to 'Devil,' representing his ruthless, tyrannical nature, while 'Vinegar Doppio' translates to 'Vinegar Double,' hinting at his subservient, secondary persona."
+  },
+  {
+    "id": 7,
+    "part": 5,
+    "title": "The Infinite Death Loop Trap",
+    "character": "Giorno Giovanna",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Easy",
+    "source": "Golden Wind",
+    "fact": "Gold Experience Requiem's ultimate ability completely detaches Diavolo from the concept of reality. Instead of dying a singular death, his consciousness is trapped in an infinite, inescapable loop where he is killed in a new, distinct, and visceral way forever without ever reaching an actual conclusion."
+  },
+  {
+    "id": 8,
+    "part": 5,
+    "title": "The Post-Mortem Autopilot Pursuit",
+    "character": "Staff",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Golden Wind",
+    "fact": "The terrifying Stand Notorious B.I.G. possesses a unique rule-based property that triggers exclusively after its user is killed. It mutates into an autonomous, organic entity that tracks and devours anything matching the highest physical velocity in its vicinity, making it impossible to destroy via standard combat mechanics."
+  },
+  {
+    "id": 9,
+    "part": 5,
+    "title": "The Real-World Italian Scouting Expedition",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Golden Wind",
+    "fact": "To capture the authentic architectural layouts, public transit systems, and lighting of regional Italy, Araki personally went on a meticulous location scouting trip to cities like Rome, Naples, and Venice, heavily documenting Italian youth fashion trends of the late 90s."
+  },
+  {
+    "id": 10,
+    "part": 5,
+    "title": "The VHS Playback Chronology",
+    "character": "Leone Abbacchio",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Golden Wind",
+    "fact": "Leone Abbacchio’s Moody Blues is designed around the mechanics of a late-20th-century media player. It cannot engage in direct physical brawls; instead, it perfectly replicates historical events on a specific digital timeline, complete with rewinding, fast-forwarding, and pausing indicators displayed on its forehead."
+  },
+  {
+    "id": 11,
+    "part": 5,
+    "title": "The Progressive Rock Kingly Majesty",
+    "character": "Diavolo",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Golden Wind",
+    "fact": "The main villain's Stand, King Crimson, and its sub-ability, Epitaph, form a complete musical tribute to the legendary 1969 progressive rock debut album *In the Court of the Crimson King* by the British band King Crimson."
+  },
+  {
+    "id": 12,
+    "part": 5,
+    "title": "The Iron-Depletion Optical Illusion",
+    "character": "Risotto Nero",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Golden Wind",
+    "fact": "Risotto Nero’s Stand, Metallica, manipulates magnetic forces to manifest razor blades and needles directly from the iron inside a target's bloodstream. A lethal side effect of this ability is the rapid, complete depletion of iron, which turns the victim's blood an opaque yellow-white and suffocates cellular respiration."
+  },
+  {
+    "id": 13,
+    "part": 5,
+    "title": "The Girl Power Pop Awakening",
+    "character": "Trish Una",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Golden Wind",
+    "fact": "Trish Una’s rubberizing Stand, Spice Girl, is an explicit homage to the ultra-popular late-90s British pop group the Spice Girls, perfectly aligning with the exact year of Part 5's historical setting (2001)."
+  },
+  {
+    "id": 14,
+    "part": 5,
+    "title": "The Sleep-Inducing Soul Reversal",
+    "character": "Jean-Pierre Polnareff",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "Golden Wind",
+    "fact": "When Silver Chariot is pierced by the Arrow, it evolves into Chariot Requiem, an autonomous entity that immediately forces all living organisms in Rome into a deep sleep. Upon waking, every nearby individual discovers their soul has been permanently swapped into the closest biological body."
+  },
+  {
+    "id": 15,
+    "part": 5,
+    "title": "The Renaissance Angelic Traitor Blueprint",
+    "character": "Bruno Bucciarati",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Golden Wind",
+    "fact": "Araki designed Bruno Bucciarati to embody the visual and thematic essence of a Renaissance angel mixed with a tragic modern gangster. His white suit patterned with small black zippers and eyelets was custom-crafted to subtly evoke both structural purity and constant, paranoid vigilance."
   }
 ]
