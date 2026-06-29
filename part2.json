@@ -2,12 +2,167 @@
   {
     "id": 1,
     "part": 2,
-    "title": "Joseph Joestar",
+    "title": "The Trickster Subversion Blueprint",
     "character": "Joseph Joestar",
-    "category": "Character",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Battle Tendency",
+    "fact": "Hirohiko Araki deliberately designed Joseph Joestar to be the polar opposite of Jonathan. While Jonathan was a traditional, honorable, and straight-laced Victorian gentleman, Araki wanted a trickster protagonist who would cheat, run away, and use psychological mind games to defeat enemies, breaking the standard shonen archetype of the era."
+  },
+  {
+    "id": 2,
+    "part": 2,
+    "title": "The Classic Heavy Rock Pantheon",
+    "character": "The Pillar Men",
+    "category": "Trivia",
     "spoiler": false,
     "difficulty": "Easy",
     "source": "Battle Tendency",
-    "fact": "Joseph Joestar is the protagonist of Battle Tendency and the second JoJo."
+    "fact": "The four Pillar Men derive their names entirely from iconic 1970s and 80s American and British rock bands. Kars is named after The Cars, Esidisi is a phonetic katakana translation of AC/DC, Wamuu is named after Wham!, and Santana is named after Carlos Santana."
+  },
+  {
+    "id": 3,
+    "part": 2,
+    "title": "The Street Fighter Design Inversion",
+    "character": "Rudol von Stroheim",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Battle Tendency",
+    "fact": "The character design of Rudol von Stroheim—specifically his flat-top blonde hair and intense military posture—served as the direct visual blueprint for Capcom's iconic fighting game character Guile in *Street Fighter II*. The game developers openly cited Araki's manga as a primary inspiration."
+  },
+  {
+    "id": 4,
+    "part": 2,
+    "title": "The Pop-Funk Identity Matrix",
+    "character": "Lisa Lisa",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Battle Tendency",
+    "fact": "The mysterious Hamon master Lisa Lisa (Elizabeth Joestar) gets her name from the 1980s American urban contemporary pop and funk band Lisa Lisa and Cult Jam, fitting into Part 2's heavily Westernized pop-culture aesthetic."
+  },
+  {
+    "id": 5,
+    "part": 2,
+    "title": "The Steely Dan Album Catalyst",
+    "character": "Staff",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Battle Tendency",
+    "fact": "The Red Stone of Aja, the mystical flawless red crystal hunted by the Pillar Men to unlock evolutionary perfection, was named by Araki as a direct shout-out to the critically acclaimed 1977 jazz-rock fusion album *Aja* by Steely Dan."
+  },
+  {
+    "id": 6,
+    "part": 2,
+    "title": "The Dual Motown Mayor Tribute",
+    "character": "Smokey Brown",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Battle Tendency",
+    "fact": "Joseph’s lifelong friend Smokey Brown—who later grows up to become the first Black mayor of his hometown in Georgia—was named by blending the identities of two prominent soul/R&B music legends: Smokey Robinson and James Brown."
+  },
+  {
+    "id": 7,
+    "part": 2,
+    "title": "The Yacht Rock Training Coaches",
+    "character": "Loggins & Messina",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Battle Tendency",
+    "fact": "The two secondary Hamon instructors on Air Supplena Island who assist Lisa Lisa in training Joseph and Caesar are named Loggins and Messina. This is a deliberate nod to the real-world 1970s American soft-rock and pop duo Loggins and Messina."
+  },
+  {
+    "id": 8,
+    "part": 2,
+    "title": "The Ultimate Cosmic Biological Freeze",
+    "character": "Kars",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Easy",
+    "source": "Battle Tendency",
+    "fact": "Because Kars achieves immortality as the Ultimate Lifeform, he cannot be killed when blasted into the vacuum of space by a volcanic eruption. Instead, his biological body turns into a rigid mineral ice structure, forcing him to drift endlessly through the cosmos until he permanently stops thinking."
+  },
+  {
+    "id": 9,
+    "part": 2,
+    "title": "The Infamous Tequila Border Infiltration",
+    "character": "Joseph Joestar",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Battle Tendency",
+    "fact": "To infiltrate a heavily guarded Nazi research outpost in Mexico, Joseph utilizes an absurd cross-dressing disguise, carrying a basket of tequila and cactus fruits. This sequence became one of the fandom's most famous memes, affectionately dubbed 'Tequila Joseph.'"
+  },
+  {
+    "id": 10,
+    "part": 2,
+    "title": "The Forgotten Parental Sacrificial Lore",
+    "character": "Caesar Anthonio Zeppeli",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "Battle Tendency",
+    "fact": "Caesar initially hated his father, Mario Zeppeli, believing he had abandoned his family. However, Caesar forgives him after witnessing Mario jump in front of a hidden wall mechanism in the Coliseum, sacrificing his own life to save a stranger (who was secretly Caesar) from being absorbed by the Pillar Men."
+  },
+  {
+    "id": 11,
+    "part": 2,
+    "title": "The Retroactive Subtitle Evolution",
+    "character": "Staff",
+    "category": "Manga History",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Battle Tendency",
+    "fact": "During its original 1987–1989 serialization in *Weekly Shonen Jump*, Part 2 was officially marketed under the title *JoJo's Bizarre Adventure Part 2: Joseph Joestar — His Proud Lineage*. The modern subtitle *Battle Tendency* was only introduced uniformly for tankobon compilation re-releases."
+  },
+  {
+    "id": 12,
+    "part": 2,
+    "title": "The Poisonous Wedding Ring Contract",
+    "character": "Esidisi & Wamuu",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Battle Tendency",
+    "fact": "To ensure Joseph wouldn't back out of fighting them, Esidisi and Wamuu implant two 'Wedding Rings of Death' directly into his body—one wrapped around his aorta and the other in his throat. The rings contain a lethal poison capsule that dissolves precisely after 33 days unless neutralized by antidote rings worn by the villains."
+  },
+  {
+    "id": 13,
+    "part": 2,
+    "title": "The Glam Rock Matriarch Identity",
+    "character": "Suzi Q",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Battle Tendency",
+    "fact": "Lisa Lisa's personal Italian assistant and Joseph's future wife, Suzi Q, was named by Araki as an explicit tribute to the pioneering American glam rock singer and bass guitarist Suzi Quatro, continuing the franchise's deep musical roots."
+  },
+  {
+    "id": 14,
+    "part": 2,
+    "title": "The Hidden British Royal Air Force Tragedy",
+    "character": "George Joestar II",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Hard",
+    "source": "Battle Tendency",
+    "fact": "Joseph's father, George Joestar II, never learned to utilize Hamon. He was killed prior to the events of Part 2 while serving as a pilot in the British Royal Air Force during World War I, after discovering his high-ranking superior officer was a dormant zombie spawn originally created by Dio Brando."
+  },
+  {
+    "id": 15,
+    "part": 2,
+    "title": "The Global Hopscotch Narrative Structure",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Battle Tendency",
+    "fact": "Part 2 broke standard shonen conventions of the late 80s by rapidly shifting its primary setting across global borders within short chapter blocks. The story travels continuously from the urban streets of New York City, down to the archaeological dig sites of Mexico, over to Venice, Italy, and finally to the snowy mountains of Switzerland."
   }
 ]
+
