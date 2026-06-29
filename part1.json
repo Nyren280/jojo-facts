@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "title": "Jonathan Joestar",
+    "character": "Jonathan Joestar",
+    "category": "Character",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Phantom Blood",
+    "fact": "Jonathan Joestar is the first JoJo in the series."
+  }
+]
