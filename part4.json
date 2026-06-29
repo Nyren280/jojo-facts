@@ -2,12 +2,166 @@
   {
     "id": 1,
     "part": 4,
-    "title": "Josuke Higashikata",
-    "character": "Josuke Higashikata",
-    "category": "Character",
+    "title": "The Thin White Duke Killer Blueprint",
+    "character": "Yoshikage Kira",
+    "category": "Behind-the-Scenes",
     "spoiler": false,
     "difficulty": "Easy",
     "source": "Diamond Is Unbreakable",
-    "fact": "Josuke Higashikata (1990s continuity) is the protagonist of Diamond Is Unbreakable."
+    "fact": "Yoshikage Kira's striking physical appearance, sharp designer suits, and shifting blonde hair layouts were heavily modeled after the iconic stage personas of British rock legend David Bowie, particularly his 'Thin White Duke' era."
+  },
+  {
+    "id": 2,
+    "part": 4,
+    "title": "The Psychedelic Progressive Rock Restoration",
+    "character": "Josuke Higashikata",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Diamond Is Unbreakable",
+    "fact": "Josuke's Stand, Crazy Diamond, derives its name directly from Pink Floyd's legendary 1975 progressive rock track 'Shine On You Crazy Diamond'. Its specialized ability to repair broken objects visually mirrors the song's core themes of putting scattered pieces back together."
+  },
+  {
+    "id": 3,
+    "part": 4,
+    "title": "The Myth of the Mangaka Alter-Ego",
+    "character": "Rohan Kishibe",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Diamond Is Unbreakable",
+    "fact": "While fans widely believe Rohan Kishibe is a direct self-insert alter-ego for Hirohiko Araki, Araki has consistently downplayed this connection in interviews. He states that Rohan represents an idealized, highly exaggerated caricature of a manga artist's structural obsessions rather than a reflection of his own personality."
+  },
+  {
+    "id": 4,
+    "part": 4,
+    "title": "The Full Royalty Musical Suite",
+    "character": "Yoshikage Kira",
+    "category": "Trivia",
+    "spoiler": true,
+    "difficulty": "Easy",
+    "source": "Diamond Is Unbreakable",
+    "fact": "Every single one of Killer Queen’s bomb tracking abilities is an explicit title shout-out to the discography of the British rock band Queen, including the base humanoid Stand, the autonomous left-hand sub-stand 'Sheer Heart Attack', and the time-looping final technique 'Another One Bites the Dust'."
+  },
+  {
+    "id": 5,
+    "part": 4,
+    "title": "The Permanent Extraterrestrial Paradox",
+    "character": "Mikitaka Hazekura",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Diamond Is Unbreakable",
+    "fact": "Araki deliberately left the true biological nature of Mikitaka Hazekura completely unresolved. The narrative presents conflicting evidence throughout, ensuring the reader never knows for certain if Mikitaka is an actual alien immune to Stand arrows or just a highly delusional Stand user with innate shape-shifting properties."
+  },
+  {
+    "id": 6,
+    "part": 4,
+    "title": "The Mid-Serialization Aesthetic Evolution",
+    "character": "Staff",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Diamond Is Unbreakable",
+    "fact": "Part 4 marks the absolute turning point for Araki’s signature art style. Josuke begins the storyline with the hyper-muscular, heavy-jawed silhouette reminiscent of Part 3's action frames, but halfway through serialization, Araki permanently thinned out character muscle masses and introduced sharper, more geometric facial lines."
+  },
+  {
+    "id": 7,
+    "part": 4,
+    "title": "The Two-Wheeled Cinematic Homage",
+    "character": "Josuke Higashikata",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Diamond Is Unbreakable",
+    "fact": "The high-octane motorcycle chase scene where Josuke must maintain a minimum speed while navigating urban obstacles to escape Highway Star's tracking footprint was written as a direct narrative homage to Jan de Bont’s 1994 Hollywood action blockbuster movie *Speed*."
+  },
+  {
+    "id": 8,
+    "part": 4,
+    "title": "The Pocket Change Swarm Origin",
+    "character": "Shigekiyo Yangu",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Diamond Is Unbreakable",
+    "fact": "The concept for Shigechi’s Stand, Harvest, came to Araki while he was contemplating the micro-economy of lost coins. He wanted to design a colony-type Stand that visualized the unsettling yet helpful idea of hundreds of tiny bugs collecting discarded pocket change across a town's hidden infrastructure."
+  },
+  {
+    "id": 9,
+    "part": 4,
+    "title": "The Hard Rock Eddie Van Halen Solo",
+    "character": "Akira Otoishi",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Diamond Is Unbreakable",
+    "fact": "Red Hot Chili Pepper’s user, Akira Otoishi, handles a specific real-world instrument model: a Paul Reed Smith custom guitar. In the anime adaptation, his frantic, lightning-fast two-handed fret tapping during his introduction monologue was explicitly rotoscoped off professional studio guitarists to match authentic hard rock solo techniques."
+  },
+  {
+    "id": 10,
+    "part": 4,
+    "title": "The Micro-Localized Suburban Pivot",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Diamond Is Unbreakable",
+    "fact": "After the epic, grand international travel structure of Part 3, Araki pivotally altered the franchise's scope for Part 4 by confining the entire narrative conflict to a single, claustrophobic fictional Japanese suburb. He wanted to explore the psychological horror concept that dangerous monsters could live right next door in regular society."
+  },
+  {
+    "id": 11,
+    "part": 4,
+    "title": "The Miniaturized Infantry Regiment",
+    "character": "Keicho Nijimura",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Diamond Is Unbreakable",
+    "fact": "Keicho Nijimura’s Stand, Bad Company, breaks the long-standing tradition of singular humanoid spiritual projections by manifesting as an entire miniature army combat regiment. Its visual layout was heavily inspired by Araki's personal interest in classic plastic green toy soldiers and Cold War military vehicles."
+  },
+  {
+    "id": 12,
+    "part": 4,
+    "title": "The Late-90s Australian Radio Wave Finale",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Diamond Is Unbreakable",
+    "fact": "For the 2016 anime adaptation of Diamond Is Unbreakable, production staff selected the 1996 pop track 'I Want You' by the Australian duo Savage Garden as the primary ending theme. This choice was deliberately calculated to capture the distinct, nostalgic radio culture of the late-1990s setting."
+  },
+  {
+    "id": 13,
+    "part": 4,
+    "title": "The Somatic Tell Paper Binding",
+    "character": "Terunosuke Miyamoto",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Diamond Is Unbreakable",
+    "fact": "The Stand Enigma, which securely traps targets inside folded sheets of regular paper, cannot activate its binding ability at will. It requires the user to first identify a target's unique, subconscious physical reflex triggered by pure, unmitigated terror (such as biting a lower lip or blinking rapidly)."
+  },
+  {
+    "id": 14,
+    "part": 4,
+    "title": "The Eternal Faceless Delinquent Savior",
+    "character": "Josuke Higashikata",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Diamond Is Unbreakable",
+    "fact": "The mystery high school delinquent who saves a young, feverish Josuke by pushing his mother's stranded car out of a heavy winter snowstorm is drawn with an identical hairstyle and uniform layout to adult Josuke. Araki deliberately left his identity completely anonymous, framing him as a timeless symbol of pure, selfless heroism."
+  },
+  {
+    "id": 15,
+    "part": 4,
+    "title": "The Visceral Gastronomic Miracle",
+    "character": "Tonio Trussardi",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Diamond Is Unbreakable",
+    "fact": "Tonio Trussardi’s Stand, Pearl Jam, is completely unique because it cannot engage in physical combat. Instead, it infuses itself directly into culinary dishes, forcefully ejecting biological ailments (like tearing out old teeth or aggressively shedding dead skin cells) to instantly heal and restore a diner's physical health."
   }
 ]
