@@ -2,12 +2,167 @@
   {
     "id": 1,
     "part": 7,
-    "title": "Johnny Joestar",
+    "title": "The Seinen Horizon Shift",
+    "character": "Staff",
+    "category": "Manga History",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "Steel Ball Run initially began serialization in Weekly Shonen Jump in 2004 as a seemingly unrelated story. However, in 2005, the series officially moved to the monthly seinen magazine Ultra Jump, which allowed Araki to write significantly longer chapters, explore darker psychological themes, and fully transition his art style into a highly detailed, realistic fashion aesthetic."
+  },
+  {
+    "id": 2,
+    "part": 7,
+    "title": "The Subversive Paraplegic Protagonist",
     "character": "Johnny Joestar",
-    "category": "Character",
+    "category": "Behind-the-Scenes",
     "spoiler": false,
     "difficulty": "Easy",
     "source": "Steel Ball Run",
-    "fact": "Johnny Joestar is the protagonist of Steel Ball Run and a central user of the Spin technique."
+    "fact": "Johnny Joestar breaks standard battle shonen and seinen protagonist conventions by being a paraplegic former star jockey. Araki wanted to challenge himself by writing a story about a character growing both mentally and physically, starting his journey with the incredibly grounded, desperate motivation of simply wanting to stand up and walk again."
+  },
+  {
+    "id": 3,
+    "part": 7,
+    "title": "The Presidential Transcontinental Inspiration",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "The concept of a transcontinental race across 1890s America was heavily inspired by the historic 1889 centennial celebration of George Washington's inauguration and the rapid expansion of American industrial infrastructure. Araki wanted a grand, historical setting that combined the romanticism of the Wild West with the technological dawn of the 20th century."
+  },
+  {
+    "id": 4,
+    "part": 7,
+    "title": "The Absolute Multiversal Countermeasure",
+    "character": "Funny Valentine",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Easy",
+    "source": "Steel Ball Run",
+    "fact": "Funny Valentine’s Stand, Dirty Deeds Done Dirt Cheap (D4C), allows him to travel between parallel dimensions by sealing himself between two objects. If Valentine is fatally wounded, he can seamlessly transfer his core consciousness and memories into an alternate version of himself from another universe, granting him a functional form of immortality."
+  },
+  {
+    "id": 5,
+    "part": 7,
+    "title": "The Sudden Presidential Fitness Transformation",
+    "character": "Funny Valentine",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "When President Funny Valentine is first introduced early in the race, he is drawn as a short, heavily stout, and older-looking man. As serialization progressed and Araki's art style streamlined, Valentine suddenly transformed into a tall, muscular, and highly attractive individual with absolutely no explicit explanation given in the story."
+  },
+  {
+    "id": 6,
+    "part": 7,
+    "title": "The Mathematical Perfection of Nature",
+    "character": "Gyro Zeppeli",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "The supernatural power of the Spin relies on the mathematical principle of the Golden Rectangle and the Fibonacci sequence. To achieve the absolute 'Super Spin,' a practitioner must observe and trace this perfect proportional spiral, which is natively found throughout nature in things like seashells, sunflowers, and the muscle movements of a running horse."
+  },
+  {
+    "id": 7,
+    "part": 7,
+    "title": "The Unorthodox Holy Relic MacGuffin",
+    "character": "Staff",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "The central driving force behind the entire Steel Ball Run race is the collection of the Holy Corpse parts. The narrative heavily establishes and later explicitly confirms that these mummified remains belong to Jesus Christ, whose scattered body parts grant immense Stand powers and corporate prosperity to the nation that holds them."
+  },
+  {
+    "id": 8,
+    "part": 7,
+    "title": "The Roman Emperor Family Lineage",
+    "character": "Gyro Zeppeli",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Steel Ball Run",
+    "fact": "Gyro Zeppeli's real, formal name is Julius Caesar Zeppeli. This serves as a massive historical nod to the famous Roman dictator, fitting perfectly with his family’s long-standing, secretive role as the royal executioners and medical practitioners for the Kingdom of Naples."
+  },
+  {
+    "id": 9,
+    "part": 7,
+    "title": "The Fairy Tale Integrity Test",
+    "character": "Johnny & Gyro",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "The bizarre Sugar Mountain arc is a dark, literal subversion of the classic European fairy tale 'The Honest Woodcutter'. The Stand forces Johnny and Gyro to completely trade away or consume all the massive riches and Corpse parts they acquire before sunset, punishing any form of greed or hoarding with permanent biological assimilation into a tree."
+  },
+  {
+    "id": 10,
+    "part": 7,
+    "title": "The Borrowed Prehistoric Metamorphosis",
+    "character": "Diego Brando",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Steel Ball Run",
+    "fact": "Diego Brando's iconic Stand, Scary Monsters, allows him to transform himself and other living creatures into highly agile Utahraptor dinosaurs. Interestingly, Diego did not originally develop this Stand on his own; he permanently kept and adapted the ability after being infected by the original user, Dr. Ferdinand."
+  },
+  {
+    "id": 11,
+    "part": 7,
+    "title": "The High-Velocity Meteorology Constraint",
+    "character": "Blackmore",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "The assassin Blackmore possesses the highly situational Stand Catch the Rainbow. It has no physical, humanoid manifestation; instead, it grants Blackmore complete spatial manipulation over weather elements, but it can only be activated while it is actively raining, allowing him to walk on air by stepping on frozen raindrops or slicing enemies with solid precipitation."
+  },
+  {
+    "id": 12,
+    "part": 7,
+    "title": "The Dynamic Fibonacci Panel Overlays",
+    "character": "Staff",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "To convey the abstract concept of the Golden Ratio to the reader, Araki began explicitly drawing the geometric grid lines and logarithmic curves of the Fibonacci spiral directly on top of the manga panels during intense combat sequences, visually locking the art layout itself into the narrative's mathematical power system."
+  },
+  {
+    "id": 13,
+    "part": 7,
+    "title": "The Diamond Jubilee Showman Namesake",
+    "character": "Steven Steel",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "The eccentric, older organizer of the race, Steven Steel, was visually and conceptually modeled after real-world 19th-century American entertainment tycoons and showmen like P.T. Barnum and Buffalo Bill Cody. His wife, Lucy Steel, derives her name directly from the 1967 psychedelic track 'Lucy in the Sky with Diamonds' by The Beatles."
+  },
+  {
+    "id": 14,
+    "part": 7,
+    "title": "The Nostalgic Time-Stopping Fan Service",
+    "character": "Diego Brando (Alternate Universe)",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "In the penultimate arc 'High Voltage', Funny Valentine utilizes his dying breaths to bring an alternate-universe version of Diego Brando into the root world. To the massive shock of readers, this version of Diego does not possess Scary Monsters, but instead wields THE WORLD, complete with the classic five-second time-stop ability from Part 3."
+  },
+  {
+    "id": 15,
+    "part": 7,
+    "title": "The Fleetwood Mac Pachyderm Moniker",
+    "character": "Johnny Joestar",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Steel Ball Run",
+    "fact": "Johnny Joestar's evolving, nail-spinning Stand, Tusk, is named after the experimental 1979 double album *Tusk* by the British-American rock band Fleetwood Mac. The Stand's distinct evolutionary stages are designated as 'Acts,' a direct structural callback to Koichi Hirose's Echoes from Part 4."
   }
 ]
+
