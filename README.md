@@ -177,4 +177,4 @@ This repository contains original fan-written trivia and metadata only and does 
 
 ---
 
-## ⭐ Star the repository if you find it useful! for webhook
+## ⭐ Star the repository if you find it useful! for webhooks
