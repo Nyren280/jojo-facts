@@ -2,12 +2,166 @@
   {
     "id": 1,
     "part": 7,
-    "title": "Spin",
+    "title": "The Mathematical Foundations of Nature",
     "character": "Gyro Zeppeli",
-    "category": "Technique",
+    "category": "Manga Lore",
     "spoiler": false,
     "difficulty": "Easy",
     "source": "Steel Ball Run",
-    "fact": "Spin is a rotational technique introduced in Steel Ball Run and primarily used by Gyro Zeppeli and Johnny Joestar."
+    "fact": "The Spin is a state of near-infinite rotation that relies on the mathematical principle of the Golden Rectangle and the Fibonacci sequence ($1:1.618$). To achieve a perfect Spin, a practitioner must trace this organic logarithmic spiral, which is natively found throughout nature in items like seashells, sunflowers, and butterflies."
+  },
+  {
+    "id": 2,
+    "part": 7,
+    "title": "The Neurological Illusion of Left-Side Ataxia",
+    "character": "Wekapipo",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "Wekapipo uses a specialized variation of the Spin via his 'Wrecking Ball' steel spheres. When the small satellites detached from the primary ball strike an opponent, the shockwave induces a medical phenomenon called 'Left Side Ataxia,' completely erasing the target's cognitive ability to perceive anything on the left side of their body or spatial surroundings."
+  },
+  {
+    "id": 3,
+    "part": 7,
+    "title": "The Quantum Wormhole Tracking Holes",
+    "character": "Johnny Joestar",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "When Johnny Joestar upgrades his Spin to Tusk Act 2, his fingernail bullets incorporate the Golden Ratio. Instead of just dealing entry damage, the impact sites create physical 'holes' that possess autonomous momentum, chasing down targets across surfaces like a liquid vacuum for a set duration."
+  },
+  {
+    "id": 4,
+    "part": 7,
+    "title": "The Self-Inflicted Spatial Consuming Wormhole",
+    "character": "Johnny Joestar",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "Tusk Act 3 allows Johnny to turn the destructive vacuum holes of the Spin inward. By shooting himself with a Golden Spin fingernail bullet, he can compress his entire body down into a single zero-point mathematical coordinate, allowing him to travel safely through ground surfaces and rearrange his tactical positioning seamlessly."
+  },
+  {
+    "id": 5,
+    "part": 7,
+    "title": "The Biomechanical Equine Catalyst",
+    "character": "Gyro Zeppeli",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "To achieve the absolute 'Super Spin,' a human cannot rely solely on their own muscles. They must utilize the kinetic energy of a running horse. The horse must be allowed to sprint at its natural, unforced pace, allowing its skeleton and hooves to trace the exact proportions of the Golden Rectangle, channeling that immense physical force up through the rider's stirrups."
+  },
+  {
+    "id": 6,
+    "part": 7,
+    "title": "The Dimensional Barrier-Bypassing Manifestation",
+    "character": "Gyro Zeppeli",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "Ball Breaker is not a traditional Stand born from Gyro's mind, but rather the visual manifestation of the Zeppeli family's Super Spin energy itself. Because it embodies infinite rotational gravity, Ball Breaker can phase clean through Funny Valentine's absolute dimensional shield, 'Love Train,' instantly forcing cells to age rapidly upon physical contact."
+  },
+  {
+    "id": 7,
+    "part": 7,
+    "title": "The Infinite Gravity Multi-Dimensional Loop",
+    "character": "Johnny Joestar",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Easy",
+    "source": "Steel Ball Run",
+    "fact": "Tusk Act 4 represents the pinnacle of the Spin, unlocked via the horse-assisted Super Spin. Its strikes embed an infinite rotational gravity loop into the target's cells. This energy is completely inescapable; if the victim attempts to flee to an alternate universe or step out of the timeline, the spin will pull them back to the exact point of impact forever, grinding them down on a molecular level."
+  },
+  {
+    "id": 8,
+    "part": 7,
+    "title": "The Reinvention of the Martial Arts Lineage",
+    "character": "Staff",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "Hirohiko Araki created the Spin because he wanted to reintroduce a supernatural martial arts system similar to the original 'Hamon' (Ripple) from Parts 1 and 2, but adapted for a Seinen demographic. By utilizing physics, anatomy, and mathematics instead of solar breathing, he grounded the combat mechanics into a pseudo-scientific reality."
+  },
+  {
+    "id": 9,
+    "part": 7,
+    "title": "The Ocular Corpse Material Scan",
+    "character": "Gyro Zeppeli",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "When Gyro briefly gains the Right Eye of the Holy Corpse, it fuses directly into his weapon system to create the ability 'Scan'. The Spin of his Steel Balls begins projecting the Corpse's sight, allowing Gyro to look directly through solid matter like an X-ray machine and analyze structural weak points or hidden physiological vulnerabilities in enemies."
+  },
+  {
+    "id": 10,
+    "part": 8,
+    "title": "The Non-Existent Quantum Cord Anomaly",
+    "character": "Josuke Higashikata",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Hard",
+    "source": "JoJolion",
+    "fact": "In Part 8, it is revealed that the bubbles generated by Soft & Wet are actually an evolutionary descendant of the Spin. They are not soap film; instead, they are comprised of infinitely thin lines of energy spinning at high velocities. Because the width of these lines is mathematically zero, they technically do not exist in the physical universe, allowing them to bypass logic entirely."
+  },
+  {
+    "id": 11,
+    "part": 8,
+    "title": "The Hereditary Soil Rotational Bleed",
+    "character": "Staff",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "JoJolion",
+    "fact": "The unique topological traits of Morioh Town—such as the Wall Eyes and the leaves of Shakedown Road that slide objects automatically—are a environmental byproduct of the Spin. When Johnny Joestar used Tusk Act 4 on himself in 1901 to lift a genetic curse from his family, the infinite rotational energy bled permanently into the local bedrock."
+  },
+  {
+    "id": 12,
+    "part": 8,
+    "title": "The Native Micro-Spin Explosive Soap",
+    "character": "Josefumi Kujo",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Medium",
+    "source": "JoJolion",
+    "fact": "Long before fusing into Josuke, Josefumi Kujo's original version of Soft & Wet produced bubbles that inherently possessed a micro-spin. This raw rotational attribute was passed down through his ancestry from the Joestar bloodline, explaining why his Stand prioritized physical friction and botanical grafting over Kira’s chemical explosions."
+  },
+  {
+    "id": 13,
+    "part": 7,
+    "title": "The Medical Executioner Metallurgical Composition",
+    "character": "Gyro Zeppeli",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "The Steel Balls utilized by the Kingdom of Naples royal executioners are not simple iron spheres. They are precision-engineered alloy weights containing unique grooved patterns on the surface. These channels are custom-carved to catch air currents during flight, maintaining aerodynamic momentum and amplifying the rotational friction needed for medical anesthesia."
+  },
+  {
+    "id": 14,
+    "part": 8,
+    "title": "The Plant Appraiser's Structural Diagnosis",
+    "character": "Rai Mamezuku",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "JoJolion",
+    "fact": "Rai Mamezuku is the first character in Part 8 to explicitly identify that Josuke's abilities are rooted in the Spin. Using his deep knowledge of organic matter and plant cellular structures, Mamezuku deduces that the 'bubbles' are actually vibrating strings, guiding Josuke to unlock 'Go Beyond'."
+  },
+  {
+    "id": 15,
+    "part": 7,
+    "title": "The Zero-Friction Kinetic Absolute",
+    "character": "Johnny Joestar",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "Because Tusk Act 4 represents an absolute physical value of infinite kinetic energy, it possesses total immunity to any temporal or spatial manipulation. When facing the alternate-universe Diego Brando, Johnny's Super Spin was capable of moving through frozen time, easily breaking the five-second universal freeze constraint of THE WORLD."
   }
 ]
