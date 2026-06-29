@@ -1,13 +1,167 @@
 [
   {
     "id": 1,
+    "part": 1,
+    "title": "The Righteous Fist of the North Star Blueprint",
+    "character": "Jonathan Joestar",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Phantom Blood",
+    "fact": "Jonathan Joestar's massive, hyper-muscular physique was heavily influenced by the 1980s manga aesthetic popularized by *Fist of the North Star*. Hirohiko Araki designed Jonathan to be a pure, uncomplicated symbol of righteousness and classical masculine virtue to contrast the creeping darkness of Dio Brando."
+  },
+  {
+    "id": 2,
+    "part": 2,
+    "title": "The Trickster Subversion of Shonen Honor",
+    "character": "Joseph Joestar",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Battle Tendency",
+    "fact": "Fearing that another purely righteous protagonist would bore readers, Araki deliberately inverted Jonathan's personality when creating his grandson, Joseph. Joseph was designed as a pragmatic, rule-breaking trickster who relies on psychological deception, running away, and elaborate bluffs rather than a strict warrior's code of honor."
+  },
+  {
+    "id": 3,
     "part": 3,
-    "title": "Jotaro Kujo",
+    "title": "The Spaghetti Western Outlaw Stance",
     "character": "Jotaro Kujo",
-    "category": "Protagonist",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stardust Crusaders",
+    "fact": "Jotaro Kujo's stoic demeanor, long flowing coat, and iconic finger-pointing stance were heavily inspired by Clint Eastwood's 'Man with No Name' character from classic Spaghetti Western films. Araki wanted Jotaro to represent a Japanese solitary hero who doesn't need to speak to command an intimidating presence."
+  },
+  {
+    "id": 4,
+    "part": 4,
+    "title": "The Sacred Berserker Pompadour",
+    "character": "Josuke Higashikata",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Diamond Is Unbreakable",
+    "fact": "Josuke's signature pompadour haircut is more than just a 1990s Japanese delinquent fashion statement; it acts as a psychological trigger. Because an anonymous, bleeding delinquent saved his life during a winter blizzard in his childhood, Josuke views the hairstyle as a sacred monument of respect, entering an uncontrollable berserk rage if anyone insults it."
+  },
+  {
+    "id": 5,
+    "part": 5,
+    "title": "The Michelangelo Renaissance Specimen",
+    "character": "Giorno Giovanna",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Golden Wind",
+    "fact": "Giorno Giovanna's visual design marks the exact point where Araki moved completely away from action-manga proportions and toward classical European art. Giorno's highly stylized physical poses and softer facial lines were explicitly modeled after Renaissance sculptures, particularly the works of Michelangelo."
+  },
+  {
+    "id": 6,
+    "part": 6,
+    "title": "The Shonen Editorial Glass Ceiling",
+    "character": "Jolyne Cujoh",
+    "category": "Manga History",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Stone Ocean",
+    "fact": "Jolyne Cujoh made history as the first female protagonist of the franchise. Araki faced intense pushback from Weekly Shonen Jump editors, who argued that an action battle manga starring a woman would fail to capture the male demographic, but Araki successfully fought to keep her, arguing that a woman fighting in a brutal prison environment added unparalleled psychological depth."
+  },
+  {
+    "id": 7,
+    "part": 7,
+    "title": "The Dark Horse Paraplegic Maverick",
+    "character": "Johnny Joestar",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "Steel Ball Run",
+    "fact": "Johnny Joestar completely broke the mold for traditional manga heroes by being a paraplegic former star athlete whose motivations are fundamentally dark and selfish. Rather than trying to save the world or protect society, Johnny's initial driving force is an obsessive, desperate personal desire to discover the secret of the Spin so he can simply walk again."
+  },
+  {
+    "id": 8,
+    "part": 8,
+    "title": "The Amnesiac Seafarer Silhouette",
+    "character": "Josuke Higashikata (Gappy)",
+    "category": "Art Style",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "JoJolion",
+    "fact": "The Part 8 protagonist's permanent sailor outfit was a calculated choice by Araki to visually anchor the character to the maritime port nature of Morioh Town. The uniform provides a rigid, easily recognizable silhouette that starkly contrasts the character's complete lack of personal identity and missing memories early in the story."
+  },
+  {
+    "id": 9,
+    "part": 9,
+    "title": "The Clinical Antisocial Inversion",
+    "character": "Jodio Joestar",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Medium",
+    "source": "The JOJOLands",
+    "fact": "Jodio Joestar subverts the traditional moral compass of previous Joestars by having an explicit medical diagnosis in Chapter 1. A school psychological evaluation identifies him as having antisocial personality traits, framing his cold, calculating detachment and criminal behavior as a clinical reality rather than typical anti-hero posturing."
+  },
+  {
+    "id": 10,
+    "part": 3,
+    "title": "The Multi-Generational Franchise Anchor",
+    "character": "Jotaro Kujo",
+    "category": "Manga History",
     "spoiler": false,
     "difficulty": "Easy",
     "source": "Stardust Crusaders",
-    "fact": "Jotaro Kujo is one of the most iconic JoJo protagonists, known for his stoic demeanor and 'ORA ORA' battles."
+    "fact": "Jotaro Kujo holds the definitive record for appearing as a major character across the most narrative parts of the original universe timeline. He serves as the primary protagonist of Part 3, a prominent mentor figure in Part 4, an investigative catalyst in Part 5, and a high-stakes rescue target in Part 6."
+  },
+  {
+    "id": 11,
+    "part": 2,
+    "title": "The Immortal Hamon Longevity Record",
+    "character": "Joseph Joestar",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Easy",
+    "source": "Battle Tendency",
+    "fact": "Joseph Joestar is the absolute longest-living protagonist in the original universe timeline. He is the only character who successfully bridges the historical transition from the early supernatural martial arts era of Hamon (Part 2) into the modern era of Stand manifestations (Parts 3 and 4)."
+  },
+  {
+    "id": 12,
+    "part": 1,
+    "title": "The Tragic Martyr Bloodline Benchmark",
+    "character": "Jonathan Joestar",
+    "category": "Manga Lore",
+    "spoiler": true,
+    "difficulty": "Easy",
+    "source": "Phantom Blood",
+    "fact": "Jonathan Joestar holds a unique, tragic distinction among all the franchise's main protagonists: he is the only JoJo who definitively dies at the end of his own introductory part. His sacrifice aboard a burning ship established the multigenerational, high-stakes nature of the series' core generational narrative."
+  },
+  {
+    "id": 13,
+    "part": 5,
+    "title": "The Silent Golden Catalyst Paradox",
+    "character": "Giorno Giovanna",
+    "category": "Behind-the-Scenes",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Golden Wind",
+    "fact": "Despite being the titular protagonist of Part 5, Giorno Giovanna actually has significantly less dialogue and overt character growth than his deuteragonist, Bruno Bucciarati. Araki intentionally wrote Giorno to act as a silent, unchanging catalyst who influences the world around him by inspiring his allies to change themselves."
+  },
+  {
+    "id": 14,
+    "part": 6,
+    "title": "The Self-Proclaimed Liberty Anthem",
+    "character": "Jolyne Cujoh",
+    "category": "Trivia",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Stone Ocean",
+    "fact": "Jolyne is the first protagonist in the series whose Stand's musical namesake is chosen explicitly by the character themselves within the story. When her ability manifests, she explicitly names it 'Stone Free' as an in-universe declaration that she intends to free herself from her physical and literal carceral confines."
+  },
+  {
+    "id": 15,
+    "part": 7,
+    "title": "The Ruthless Rebirth of a Gentleman",
+    "character": "Johnny Joestar",
+    "category": "Manga Lore",
+    "spoiler": false,
+    "difficulty": "Hard",
+    "source": "Steel Ball Run",
+    "fact": "While Johnny Joestar is the alternate-universe counterpart to the pure-hearted Jonathan Joestar, his character traits are a complete psychological inversion. Where Jonathan was a gentle, wealthy, rule-abiding aristocrat, Johnny is a cynical, disgraced prodigy who displays a cold 'dark determination,' frequently demonstrating a willingness to kill his opponents without hesitation to achieve his goals."
   }
 ]
