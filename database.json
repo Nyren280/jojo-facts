@@ -1,27 +1,100 @@
-{
-  "version": "1.0.0",
-  "name": "JoJo Facts Database",
-  "description": "Master index for every JoJo facts database.",
-  "databases": [
-    "part1.json",
-    "part2.json",
-    "part3.json",
-    "part4.json",
-    "part5.json",
-    "part6.json",
-    "part7.json",
-    "part8.json",
-    "part9.json",
-    "stands.json",
-    "hamon.json",
-    "spin.json",
-    "protagonists.json",
-    "villains.json",
-    "allies.json",
-    "locations.json",
-    "anime.json",
-    "manga.json",
-    "trivia.json",
-    "eastereggs.json"
-  ]
-}
+[
+  {
+    "key": "part1",
+    "label": "Part 1 \u2014 Phantom Blood",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/part1.json",
+    "description": "Facts about Jonathan Joestar, Dio Brando, and the Stone Mask.",
+    "enabled": true
+  },
+  {
+    "key": "part2",
+    "label": "Part 2 \u2014 Battle Tendency",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/part2.json",
+    "description": "Facts about Joseph Joestar, the Pillar Men, and the Red Stone of Aja.",
+    "enabled": true
+  },
+  {
+    "key": "part3",
+    "label": "Part 3 \u2014 Stardust Crusaders",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/part3.json",
+    "description": "Facts about Jotaro Kujo, the crusade to Egypt, and the Stand system.",
+    "enabled": true
+  },
+  {
+    "key": "part4",
+    "label": "Part 4 \u2014 Diamond is Unbreakable",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/part4.json",
+    "description": "Facts about Josuke Higashikata and the town of Morioh.",
+    "enabled": true
+  },
+  {
+    "key": "part5",
+    "label": "Part 5 \u2014 Golden Wind",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/part5.json",
+    "description": "Facts about Giorno Giovanna and Passione.",
+    "enabled": true
+  },
+  {
+    "key": "part6",
+    "label": "Part 6 \u2014 Stone Ocean",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/part6.json",
+    "description": "Facts about Jolyne Cujoh and Green Dolphin Street Prison.",
+    "enabled": true
+  },
+  {
+    "key": "part7",
+    "label": "Part 7 \u2014 Steel Ball Run",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/part7.json",
+    "description": "Facts about Johnny Joestar, Gyro Zeppeli, and the cross-country race.",
+    "enabled": true
+  },
+  {
+    "key": "part8",
+    "label": "Part 8 \u2014 JoJolion",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/part8.json",
+    "description": "Facts about Josuke Higashikata and Morioh's mysteries.",
+    "enabled": true
+  },
+  {
+    "key": "part9",
+    "label": "Part 9 \u2014 The JOJOLands",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/part9.json",
+    "description": "Facts about Jodio Joestar and the Hawaii arc.",
+    "enabled": true
+  },
+  {
+    "key": "villains",
+    "label": "Villains",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/villains.json",
+    "description": "Facts about the major antagonists across all parts.",
+    "enabled": true
+  },
+  {
+    "key": "allies",
+    "label": "Allies",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/allies.json",
+    "description": "Facts about supporting heroes and companions.",
+    "enabled": true
+  },
+  {
+    "key": "stands",
+    "label": "Stands",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/stands.json",
+    "description": "Facts about Stands \u2014 their abilities, names, and origins.",
+    "enabled": true
+  },
+  {
+    "key": "trivia",
+    "label": "General Trivia",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/trivia.json",
+    "description": "Behind-the-scenes facts, Araki interviews, and production trivia.",
+    "enabled": true
+  },
+  {
+    "key": "locations",
+    "label": "Locations",
+    "url": "https://raw.githubusercontent.com/Nyren280/jojo-facts/main/locations.json",
+    "description": "Facts about the real and fictional places in the JoJo universe.",
+    "enabled": false
+  }
+]
